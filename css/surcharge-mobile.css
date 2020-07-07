@@ -96,70 +96,70 @@ h4 {
 
 @font-face {
   font-family: "Univers";
-  src: url("/theme/milipolqatar_desktop_2020_git/fonts/univers/Univers-Light-Italic.woff2") format("woff2"), url("/theme/milipolqatar_desktop_2020_git/fonts/univers/Univers-Light-Italic.woff") format("woff");
+  src: url("/theme/milipolqatar_mobile_2020_git/fonts/univers/Univers-Light-Italic.woff2") format("woff2"), url("/theme/milipolqatar_mobile_2020_git/fonts/univers/Univers-Light-Italic.woff") format("woff");
   font-weight: 100;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Univers";
-  src: url("/theme/milipolqatar_desktop_2020_git/fonts/univers/Univers-Black-Italic.woff2") format("woff2"), url("/theme/milipolqatar_desktop_2020_git/fonts/univers/Univers-Black-Italic.woff") format("woff");
+  src: url("/theme/milipolqatar_mobile_2020_git/fonts/univers/Univers-Black-Italic.woff2") format("woff2"), url("/theme/milipolqatar_mobile_2020_git/fonts/univers/Univers-Black-Italic.woff") format("woff");
   font-weight: 100;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Univers";
-  src: url("/theme/milipolqatar_desktop_2020_git/fonts/univers/Univers-Black.woff2") format("woff2"), url("/theme/milipolqatar_desktop_2020_git/fonts/univers/Univers-Black.woff") format("woff");
+  src: url("/theme/milipolqatar_mobile_2020_git/fonts/univers/Univers-Black.woff2") format("woff2"), url("/theme/milipolqatar_mobile_2020_git/fonts/univers/Univers-Black.woff") format("woff");
   font-weight: 100;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Univers-Light-Normal";
-  src: url("/theme/milipolqatar_desktop_2020_git/fonts/univers/Univers-Light-Normal.woff2") format("woff2"), url("/theme/milipolqatar_desktop_2020_git/fonts/univers/Univers-Light-Normal.woff") format("woff");
+  src: url("/theme/milipolqatar_mobile_2020_git/fonts/univers/Univers-Light-Normal.woff2") format("woff2"), url("/theme/milipolqatar_mobile_2020_git/fonts/univers/Univers-Light-Normal.woff") format("woff");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Univers LT Std";
-  src: url("/theme/milipolqatar_desktop_2020_git/fonts/univers/UniversLTStd-Obl.woff2") format("woff2"), url("/theme/milipolqatar_desktop_2020_git/fonts/univers/UniversLTStd-Obl.woff") format("woff");
+  src: url("/theme/milipolqatar_mobile_2020_git/fonts/univers/UniversLTStd-Obl.woff2") format("woff2"), url("/theme/milipolqatar_mobile_2020_git/fonts/univers/UniversLTStd-Obl.woff") format("woff");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Univers LT Std";
-  src: url("/theme/milipolqatar_desktop_2020_git/fonts/univers/UniversLTStd.woff2") format("woff2"), url("/theme/milipolqatar_desktop_2020_git/fonts/univers/UniversLTStd.woff") format("woff");
+  src: url("/theme/milipolqatar_mobile_2020_git/fonts/univers/UniversLTStd.woff2") format("woff2"), url("/theme/milipolqatar_mobile_2020_git/fonts/univers/UniversLTStd.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Univers LT Std";
-  src: url("/theme/milipolqatar_desktop_2020_git/fonts/univers/UniversLTStd-BoldObl.woff2") format("woff2"), url("/theme/milipolqatar_desktop_2020_git/fonts/univers/UniversLTStd-BoldObl.woff") format("woff");
+  src: url("/theme/milipolqatar_mobile_2020_git/fonts/univers/UniversLTStd-BoldObl.woff2") format("woff2"), url("/theme/milipolqatar_mobile_2020_git/fonts/univers/UniversLTStd-BoldObl.woff") format("woff");
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Univers LT Std";
-  src: url("/theme/milipolqatar_desktop_2020_git/fonts/univers/UniversLTStd-Bold.woff2") format("woff2"), url("/theme/milipolqatar_desktop_2020_git/fonts/univers/UniversLTStd-Bold.woff") format("woff");
+  src: url("/theme/milipolqatar_mobile_2020_git/fonts/univers/UniversLTStd-Bold.woff2") format("woff2"), url("/theme/milipolqatar_mobile_2020_git/fonts/univers/UniversLTStd-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Museo 900";
-  src: url("/theme/milipolqatar_desktop_2020_git/fonts/museo/Museo900-Regular.woff2") format("woff2"), url("/theme/milipolqatar_desktop_2020_git/fonts/museo/Museo900-Regular.woff") format("woff");
+  src: url("/theme/milipolqatar_mobile_2020_git/fonts/museo/Museo900-Regular.woff2") format("woff2"), url("/theme/milipolqatar_mobile_2020_git/fonts/museo/Museo900-Regular.woff") format("woff");
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Museo 700";
-  src: url("/theme/milipolqatar_desktop_2020_git/fonts/museo/Museo-700.woff2") format("woff2"), url("/theme/milipolqatar_desktop_2020_git/fonts/museo/Museo-700.woff") format("woff");
+  src: url("/theme/milipolqatar_mobile_2020_git/fonts/museo/Museo-700.woff2") format("woff2"), url("/theme/milipolqatar_mobile_2020_git/fonts/museo/Museo-700.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
@@ -405,7 +405,7 @@ abbr[title] {
 }
 
 .cap-icon-shopping_basket::before {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/shop.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/shop.svg");
   background-repeat: no-repeat;
   content: "" !important;
   display: block;
@@ -612,7 +612,7 @@ header.site-banner .global-search-form .gsf-label {
 
 .content-list-bullet li ul li::before {
   content: "";
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/little-arrow-right-gold.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/little-arrow-right-gold.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 3.5rem;
@@ -704,7 +704,7 @@ header.site-banner .global-search-form .gsf-label {
 }
 
 .btn.btn-white-grey:after {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
 }
 
 .btn.btn-gold {
@@ -717,7 +717,7 @@ header.site-banner .global-search-form .gsf-label {
 }
 
 .btn.btn-gold:after {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
 .btn.btn-red {
@@ -743,7 +743,7 @@ header.site-banner .global-search-form .gsf-label {
 }
 
 .btn.btn-red:after {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
 .btn:after {
@@ -863,11 +863,11 @@ header.site-banner .global-search-form .gsf-label {
 }
 
 .previous_btn {
-  content: url(/theme/milipolqatar_desktop_2020_git/img/arrow-testimonial-left.svg);
+  content: url(/theme/milipolqatar_mobile_2020_git/img/arrow-testimonial-left.svg);
 }
 
 .next_btn {
-  content: url(/theme/milipolqatar_desktop_2020_git/img/arrow-testimonial-right.svg);
+  content: url(/theme/milipolqatar_mobile_2020_git/img/arrow-testimonial-right.svg);
 }
 
 .slide_buttons {
@@ -915,7 +915,7 @@ hr {
           transform: translateX(-50%) !important;
   padding: 7rem 0 3.5rem 0;
   background-color: #0b1626;
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/blockquote-bg.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/blockquote-bg.svg");
   background-position: bottom left;
   background-repeat: no-repeat;
   position: relative;
@@ -1080,7 +1080,7 @@ hr {
 }
 
 .site-banner.is-stuck > .inside .main-navigation .mn-menu-item-855024 a {
-  content: url("/theme/milipolqatar_desktop_2020_git/img/logo-milipol-qata-black.svg") !important;
+  content: url("/theme/milipolqatar_mobile_2020_git/img/logo-milipol-qata-black.svg") !important;
 }
 
 .site-banner.is-stuck .intro-home {
@@ -1178,7 +1178,7 @@ hr {
 
 .site-banner > .inside .quicklinks ul.ql-list.unstyled .ql-item.linkid851786 span.txt-btn:before {
   content: "";
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/nav-icon-1.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/nav-icon-1.svg");
   background-repeat: no-repeat;
   height: 16px;
   width: 16px;
@@ -1193,7 +1193,7 @@ hr {
 
 .site-banner > .inside .quicklinks ul.ql-list.unstyled .ql-item.linkid851788 span.txt-btn:before {
   content: "";
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/nav-icon-2.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/nav-icon-2.svg");
   background-repeat: no-repeat;
   height: 16px;
   width: 16px;
@@ -1208,7 +1208,7 @@ hr {
 
 .site-banner > .inside .quicklinks ul.ql-list.unstyled .ql-item.linkid851789 span.txt-btn:before {
   content: "";
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/nav-icon-3.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/nav-icon-3.svg");
   background-repeat: no-repeat;
   height: 16px;
   width: 16px;
@@ -1237,7 +1237,7 @@ hr {
   content: "";
   width: 25px;
   height: 8px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
   display: block;
   margin-left: 10px;
@@ -1253,7 +1253,7 @@ hr {
 }
 
 .site-banner > .inside .quicklinks ul.ql-list.unstyled .ql-item.linkid851791 a:focus span.txt-btn:after, .site-banner > .inside .quicklinks ul.ql-list.unstyled .ql-item.linkid851791 a:hover span.txt-btn:after {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
 .site-banner > .inside .quicklinks ul.ql-list.unstyled .ql-item.linkid851792 {
@@ -1276,7 +1276,7 @@ hr {
   content: "";
   width: 25px;
   height: 8px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-red.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-red.svg);
   background-repeat: no-repeat;
   display: block;
   margin-left: 10px;
@@ -1292,7 +1292,7 @@ hr {
 }
 
 .site-banner > .inside .quicklinks ul.ql-list.unstyled .ql-item.linkid851792 a:focus span.txt-btn:after, .site-banner > .inside .quicklinks ul.ql-list.unstyled .ql-item.linkid851792 a:hover span.txt-btn:after {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
 .site-banner > .inside .quicklinks ul.ql-list.unstyled .btn-primary {
@@ -1367,7 +1367,7 @@ hr {
 .site-banner > .inside .logged .widget-text .openCapTrigger .cap-icon-user-circle-o:before,
 .site-banner > .inside .not-logged .widget-text .openCapTrigger .cap-icon-user-circle-o:before {
   content: "";
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/avatar.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/avatar.svg");
   background-repeat: no-repeat;
   background-position: center center;
   width: 21px;
@@ -1402,7 +1402,7 @@ hr {
   content: "";
   width: 10px;
   height: 6px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-down-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-down-gold.svg);
   background-repeat: no-repeat;
   top: 0;
   border: 0;
@@ -1429,7 +1429,7 @@ hr {
 
 .site-banner > .inside button.gsf-trigger.js-toggle-trigger.unstyled .icon.icon-search::before {
   content: "";
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/zoom.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/zoom.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 2.5rem;
@@ -1629,7 +1629,7 @@ hr {
   display: block;
   width: 22px;
   height: 8px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -1677,7 +1677,7 @@ hr {
 
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-menu-item-855024 a {
   text-indent: -100rem;
-  content: url("/theme/milipolqatar_desktop_2020_git/img/logo-milipol-qata-white.svg");
+  content: url("/theme/milipolqatar_mobile_2020_git/img/logo-milipol-qata-white.svg");
   width: 325px;
   margin: -1.5rem 0;
   max-width: 292px;
@@ -1693,7 +1693,7 @@ hr {
 /* end site-banner*/
 .site-footer {
   background: #7b1228;
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/footer-background.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/footer-background.svg");
   background-position: bottom right;
   background-size: 240px;
   background-repeat: no-repeat;
@@ -1960,7 +1960,7 @@ hr {
 }
 
 .site-footer #btn-scroll-top:before {
-  content: url("/theme/milipolqatar_desktop_2020_git/img/arrow-top-header.svg");
+  content: url("/theme/milipolqatar_mobile_2020_git/img/arrow-top-header.svg");
 }
 
 .site-footer #btn-scroll-top:hover {
@@ -2130,7 +2130,7 @@ hr {
   content: "";
   width: 22px;
   height: 8px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
 }
 
@@ -2148,7 +2148,7 @@ hr {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/opening-in-background.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/opening-in-background.svg);
   background-repeat: no-repeat;
   background-position: bottom left;
   padding: 85px 0;
@@ -2316,7 +2316,7 @@ hr {
   content: "";
   width: 22px;
   height: 8px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
   display: block;
   margin-left: auto;
@@ -2331,7 +2331,7 @@ hr {
 
 .body-corpo.front #zone2 .edito-about .inside .lien1:after,
 .body-corpo.front #zone2 .discover-qatar .inside .lien1:after {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
 .body-corpo.front #zone2 .edito-about .inside .lien1:hover,
@@ -2358,7 +2358,7 @@ hr {
 
 .body-corpo.front #zone2 .edito-about .inside .lien2:hover:after,
 .body-corpo.front #zone2 .discover-qatar .inside .lien2:hover:after {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
 .body-corpo.front #zone2 .discover-qatar .inside {
@@ -2475,7 +2475,7 @@ hr {
   content: "";
   width: 22px;
   height: 8px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
 }
 
@@ -2487,30 +2487,30 @@ hr {
 .body-corpo.front #zone2 .quicklinks .ql-list .ql-item.linkid851799:before {
   width: 24px;
   height: 16px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/prepare-icon-1.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/prepare-icon-1.svg);
 }
 
 .body-corpo.front #zone2 .quicklinks .ql-list .ql-item.linkid851800:before {
   width: 25px;
   height: 21px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/prepare-icon-2.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/prepare-icon-2.svg);
 }
 
 .body-corpo.front #zone2 .quicklinks .ql-list .ql-item.linkid851801:before {
   width: 18px;
   height: 22px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/prepare-icon-3.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/prepare-icon-3.svg);
 }
 
 .body-corpo.front #zone2 .quicklinks .ql-list .ql-item.linkid851802:before {
   width: 18px;
   height: 22px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/prepare-icon-4.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/prepare-icon-4.svg);
 }
 
 .body-corpo.front #zone2 .video {
   background-color: #0b1626;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/video-background.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/video-background.svg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: contain;
@@ -2535,7 +2535,7 @@ hr {
 }
 
 .body-corpo.front #zone2 .conference-program {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/program-background.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/program-background.svg);
   background-repeat: no-repeat;
   background-position: bottom right;
   padding: 50px 0;
@@ -2742,7 +2742,7 @@ hr {
 }
 
 .body-corpo.front #zone2 .contacts-list {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/speakers-background.jpg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/speakers-background.jpg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -2851,7 +2851,7 @@ hr {
   background-repeat: no-repeat;
   display: block;
   margin-left: auto;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
 }
 
 .body-corpo.front #zone2 .contacts-list .cl-content .cl-item.last-item:hover {
@@ -2863,7 +2863,7 @@ hr {
 }
 
 .body-corpo.front #zone2 .contacts-list .cl-content .cl-item.last-item:hover p:after {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
 .body-corpo.front #zone2 .partner {
@@ -2914,7 +2914,7 @@ hr {
   content: "";
   width: 22px;
   height: 8px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
   margin-left: auto;
 }
@@ -3000,7 +3000,7 @@ hr {
   content: "";
   width: 22px;
   height: 30px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/little-arrow-left-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/little-arrow-left-gold.svg);
   background-repeat: no-repeat;
   margin-left: 0;
 }
@@ -3025,7 +3025,7 @@ hr {
   content: "";
   width: 22px;
   height: 30px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/little-arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/little-arrow-right-gold.svg);
   background-repeat: no-repeat;
 }
 
@@ -3035,7 +3035,7 @@ hr {
 
 .body-corpo.front #zone2 .list-articles {
   background-color: rgba(137, 121, 71, 0.2);
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/latest-news-background.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/latest-news-background.svg);
   background-repeat: no-repeat;
   background-position: left bottom;
   background-size: contain;
@@ -3097,7 +3097,7 @@ hr {
   background-repeat: no-repeat;
   display: block;
   margin-left: auto;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
 .body-corpo.front #zone2 .list-articles .inside .main-title-with-link a:hover {
@@ -3199,7 +3199,7 @@ hr {
   content: "";
   width: 21px;
   height: 9px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
   margin-left: 15px;
 }
@@ -3210,7 +3210,7 @@ hr {
 }
 
 .body-corpo.front #zone2 .business-areas {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/business-areas-background.png);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/business-areas-background.png);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: 60%;
@@ -3453,7 +3453,7 @@ hr {
   width: 50%;
   display: flex;
   align-self: flex-start;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/last-section-background.png);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/last-section-background.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3466,7 +3466,7 @@ hr {
   width: 50%;
   display: flex;
   align-self: flex-end;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/last-section-background-2.png);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/last-section-background-2.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3519,7 +3519,7 @@ hr {
   content: "";
   width: 22px;
   height: 8px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
   background-repeat: no-repeat;
   display: block;
   margin-left: auto;
@@ -3569,7 +3569,7 @@ hr {
 .content743324 #main .zone .landing-exposant .background-exposant,
 .content374293 #main .zone .landing-exposant .background-exposant {
   position: relative;
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/img-background-exposant-v2020.jpg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/img-background-exposant-v2020.jpg");
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -3693,7 +3693,7 @@ hr {
 
 .content743324 #main .zone .soyez-present,
 .content374293 #main .zone .soyez-present {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/img-background-exposant-present.jpg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/img-background-exposant-present.jpg");
   background-size: cover;
   background-position: center;
   padding-bottom: 13rem;
@@ -3840,7 +3840,7 @@ hr {
 
 .content743324 #main .zone .article-focus,
 .content374293 #main .zone .article-focus {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/img-exposant.jpg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/img-exposant.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -3890,7 +3890,7 @@ hr {
   margin: 5rem 0 8rem 0;
   padding: 11rem 0 7rem 40%;
   width: 200%;
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-fabric.png");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-fabric.png");
   -webkit-transform: translateX(-35%) rotate(-10deg);
           transform: translateX(-35%) rotate(-10deg);
 }
@@ -3953,7 +3953,7 @@ hr {
   height: 100%;
   -webkit-transform: rotate(-25deg);
           transform: rotate(-25deg);
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/img-inscription.jpg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/img-inscription.jpg);
   background-size: cover;
   background-position: center;
   left: -20%;
@@ -3963,7 +3963,7 @@ hr {
 
 .content743324 #main .article-focus,
 .content374293 #main .article-focus {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/img-exposant.jpg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/img-exposant.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -4109,22 +4109,22 @@ hr {
 
 .content743324 .quicklinks.ip1 .ql-item.linkid376259 a.btn-primary .icon,
 .content374293 .quicklinks.ip1 .ql-item.linkid376259 a.btn-primary .icon {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/icon-tractor-orange-v2020.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/icon-tractor-orange-v2020.svg");
 }
 
 .content743324 .quicklinks.ip1 .ql-item.linkid376261 a.btn-primary .icon,
 .content374293 .quicklinks.ip1 .ql-item.linkid376261 a.btn-primary .icon {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/icon-calendar-orange-v2020.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/icon-calendar-orange-v2020.svg");
 }
 
 .content743324 .quicklinks.ip1 .ql-item.linkid376262 a.btn-primary .icon,
 .content374293 .quicklinks.ip1 .ql-item.linkid376262 a.btn-primary .icon {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/icon-map-orange-v2020.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/icon-map-orange-v2020.svg");
 }
 
 .content743324 .quicklinks.ip1 .ql-item.linkid376263 a.btn-primary .icon,
 .content374293 .quicklinks.ip1 .ql-item.linkid376263 a.btn-primary .icon {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/icon-app-orange.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/icon-app-orange.svg");
 }
 
 .content743324 .quicklinks.ip1 .ql-item a:hover .txt-btn,
@@ -4376,7 +4376,7 @@ body.exposer #main .site-wrapper {
   font-weight: 600;
   line-height: 16px;
   border-color: #dbdbdb;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
   background-repeat: no-repeat;
   background-position: 140px center;
   transition: none;
@@ -4410,7 +4410,7 @@ body.exposer #main .site-wrapper {
   height: 16px;
   margin-left: 5px;
   background-repeat: repeat;
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/grey-loupe.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/grey-loupe.svg");
 }
 
 .mod-catal .catal-ex-item.is-premium .catal-ex-item-title a:hover {
@@ -4776,7 +4776,7 @@ body.exposer #main .site-wrapper {
 > .esf-choice-container
 .esf-next-lvl::after {
   content: "";
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/arrow-slides-v2020.svg") !important;
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/arrow-slides-v2020.svg") !important;
   background-repeat: no-repeat !important;
   position: absolute;
   width: 1.5rem !important;
@@ -6154,7 +6154,7 @@ body.exposer #main .site-wrapper {
   content: "";
   width: 12px;
   height: 14px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/pagination-next.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/pagination-next.svg);
   background-repeat: no-repeat;
 }
 
@@ -6181,7 +6181,7 @@ body.exposer #main .site-wrapper {
   content: "";
   width: 12px;
   height: 14px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/pagination-prev.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/pagination-prev.svg);
   background-repeat: no-repeat;
 }
 
@@ -6537,7 +6537,7 @@ h1.main-title  {
 }
 
 .body-corpo:not(.front):not(.content374293):not(.content743324) #main {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/articles-bg.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/articles-bg.svg);
   background-repeat: no-repeat;
   background-position: bottom left;
   background-size: auto;
@@ -6558,7 +6558,7 @@ h1.main-title  {
 .body-corpo:not(.front):not(.content374293):not(.content743324) #main:after {
   content: "";
   display: block;
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-general.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-general.svg");
   background-size: 300px;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -6655,7 +6655,7 @@ h1.main-title  {
 
 .body-corpo:not(.front):not(.content374293):not(.content743324) .site-wrapper .layout-2-col .block-page .inside .content-list-bullet li ul li::before {
   content: "";
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/little-arrow-right-gold.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/little-arrow-right-gold.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 3.5rem;
@@ -6771,7 +6771,7 @@ h1.main-title  {
   margin-left: 50% !important;
   -webkit-transform: translateX(-50%) !important;
           transform: translateX(-50%) !important;
-  background: url("/theme/milipolqatar_desktop_2020_git/img/blockquote-bg.svg");
+  background: url("/theme/milipolqatar_mobile_2020_git/img/blockquote-bg.svg");
   background-repeat: no-repeat;
   background-position: bottom left;
   position: relative;
@@ -6782,7 +6782,7 @@ h1.main-title  {
 
 .body-corpo:not(.front):not(.content374293):not(.content743324) .site-wrapper .zone .article-content blockquote::before {
   content: "";
-  background: url("/theme/milipolqatar_desktop_2020_git/img/quotes.svg");
+  background: url("/theme/milipolqatar_mobile_2020_git/img/quotes.svg");
   position: absolute;
   width: 4.2rem;
   height: 2.7rem;
@@ -7019,7 +7019,7 @@ h1.main-title  {
   background-repeat: no-repeat;
   display: block;
   margin-left: auto;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
 }
 
 .body-corpo:not(.front):not(.content374293):not(.content743324) .site-wrapper .zone .article-content .focus2 a.externe {
@@ -7074,7 +7074,7 @@ h1.main-title  {
   text-transform: uppercase;
   position: relative;
   padding: 2rem 3rem 2rem 6rem;
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/arrow-down-white.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/arrow-down-white.svg");
   background-repeat: no-repeat;
   background-position: left 2.5rem center;
   background-color: #7b1228;
@@ -7314,7 +7314,7 @@ h1.main-title  {
   margin-top: 0.25em;
   margin-left: -1.15em;
   vertical-align: top;
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/little-arrow-right-gold.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/little-arrow-right-gold.svg");
   background-repeat: no-repeat;
   background-color: transparent;
 }
@@ -7461,7 +7461,7 @@ h1.main-title  {
   background-repeat: no-repeat;
   display: block;
   margin-left: auto;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
 .body-corpo:not(.front):not(.content374293):not(.content743324) .site-wrapper .zone .article-navigation .inside .unstyled .an-item .an-item-link img {
@@ -7472,7 +7472,7 @@ h1.main-title  {
 }
 
 .body-corpo.sima #main::before {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-6.jpg") !important;
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-6.jpg") !important;
 }
 
 .body-corpo.sima.content384937 #main {
@@ -7502,31 +7502,31 @@ h1.main-title  {
 }
 
 .body-corpo.simagena #main::before {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-13.jpg") !important;
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-13.jpg") !important;
 }
 
 .body-corpo.exposer #main::before {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-11.jpg") !important;
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-11.jpg") !important;
 }
 
 .body-corpo.exposer.article_list #main .site-wrapper.wrapper::before {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-11.jpg") !important;
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-11.jpg") !important;
 }
 
 .body-corpo.visiter #main::before {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-12.jpg") !important;
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-12.jpg") !important;
 }
 
 .body-corpo.evts #main::before {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-2.jpg") !important;
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-2.jpg") !important;
 }
 
 .body-corpo.evts.article_list #main .site-wrapper.wrapper::before {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-2.jpg") !important;
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-2.jpg") !important;
 }
 
 .body-corpo.worldwide #main::before {
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-10.jpg") !important;
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-10.jpg") !important;
 }
 
 .stands {
@@ -7635,7 +7635,7 @@ h1.main-title  {
 }
 
 .body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/articles-bg.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/articles-bg.svg);
   background-repeat: no-repeat;
   background-position: bottom left;
   background-size: auto;
@@ -7656,7 +7656,7 @@ h1.main-title  {
 .body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main:after {
   content: "";
   display: block;
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/bg-general.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-general.svg");
   background-size: 300px;
   background-position: bottom right;
   background-repeat: no-repeat;
@@ -7726,7 +7726,7 @@ h1.main-title  {
 
 .body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .content-list-bullet li ul li::before {
   content: "";
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/little-arrow-right-gold.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/little-arrow-right-gold.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 3.5rem;
@@ -7825,7 +7825,7 @@ h1.main-title  {
   content: "";
   width: 22px;
   height: 8px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
   margin-left: 10px;
 }
@@ -7904,7 +7904,7 @@ h1.main-title  {
   content: "";
   width: 12px;
   height: 14px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/pagination-next.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/pagination-next.svg);
   background-repeat: no-repeat;
   margin-left: 10px;
 }
@@ -7930,7 +7930,7 @@ h1.main-title  {
   content: "";
   width: 12px;
   height: 14px;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/pagination-prev.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/pagination-prev.svg);
   background-repeat: no-repeat;
   margin-right: 10px;
 }
@@ -8045,7 +8045,7 @@ h1.main-title  {
 .body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main,
 .body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main,
 .body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/articles-bg.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/articles-bg.svg);
   background-repeat: no-repeat;
   background-position: bottom left;
   background-size: auto;
@@ -8057,7 +8057,7 @@ h1.main-title  {
 .body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before,
 .body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before {
   height: 33.5rem;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/bg-general.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/bg-general.svg);
 }
 
 .body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper,
@@ -8156,7 +8156,7 @@ h1.main-title  {
 .body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before,
 .body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before {
   content: "";
-  background-image: url("/theme/milipolqatar_desktop_2020_git/img/little-arrow-right-gold.svg");
+  background-image: url("/theme/milipolqatar_mobile_2020_git/img/little-arrow-right-gold.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 3.5rem;
@@ -8639,7 +8639,7 @@ h1.main-title  {
   display: block;
   background-color: #000;
   height: 53.5rem;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/evenements.jpg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/evenements.jpg);
   background-size: cover;
   background-position: center;
   z-index: 1;
@@ -8988,7 +8988,7 @@ h1.main-title  {
   background-position: center;
   z-index: 1;
   margin-top: 1.5rem;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/evenements.jpg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/evenements.jpg);
 }
 
 .parent691061 .catal-nav-ex {
@@ -9382,7 +9382,7 @@ body.error404 .site-wrapper .intro .ezxmltext-field ul li:first-child a:after {
   background-repeat: no-repeat;
   display: block;
   margin-left: auto;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
   margin-left: auto;
 }
 
@@ -9414,7 +9414,7 @@ body.error404 .site-wrapper .intro .ezxmltext-field ul li:last-child a:after {
   background-repeat: no-repeat;
   display: block;
   margin-left: auto;
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-gold.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   margin-left: auto;
 }
 
@@ -9424,7 +9424,7 @@ body.error404 .site-wrapper .intro .ezxmltext-field ul li:last-child a:hover {
 }
 
 body.error404 .site-wrapper .intro .ezxmltext-field ul li:last-child a:hover:after {
-  background-image: url(/theme/milipolqatar_desktop_2020_git/img/arrow-right-white.svg);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
 body.error404 .site-wrapper .ep-intro .main-title {
