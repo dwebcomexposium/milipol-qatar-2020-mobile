@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="17px" viewBox="0 0 13 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 3 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MENU" transform="translate(-1203.000000, -14.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="TOP-BAR-">
+                <g transform="translate(-3.500000, 0.000000)">
+                    <g id="ICON-" transform="translate(1152.000000, 14.000000)">
+                        <g id="Group-3-Copy" transform="translate(54.500000, 1.000000)">
+                            <path d="M4.38758121,10 C2.85655742,10 1.55851626,11.1257851 1.3419968,12.6414214 L1.16811719,13.8585786 C1.16142529,13.9054219 1.15806668,13.9526811 1.15806668,14 C1.15806668,14.5522847 1.60578193,15 2.15806668,15 L10.5460279,15 C10.5933468,15 10.640606,14.9966414 10.6874493,14.9899495 C11.2341833,14.9118446 11.6140823,14.4053127 11.5359774,13.8585786 L11.3620978,12.6414214 C11.1455784,11.1257851 9.8475372,10 8.3165134,10 L4.38758121,10 Z" id="Rectangle"></path>
+                            <circle id="Oval" cx="6.5" cy="5" r="4.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
