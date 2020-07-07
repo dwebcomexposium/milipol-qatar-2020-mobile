@@ -2768,11 +2768,7 @@ hr {
 }
 
 .body-mobile.front #zone2 .contacts-list .cl-content {
-  display: flex;
-  max-width: 1120px;
   margin: 0 auto;
-  flex-direction: row;
-  flex-wrap: wrap;
 }
 
 .body-mobile.front #zone2 .contacts-list .cl-content .cl-item {
@@ -2781,10 +2777,9 @@ hr {
   align-items: center;
   justify-content: space-between;
   max-width: 350px;
-  width: 350px;
   background-color: white;
   padding-bottom: 0;
-  margin-left: 15px;
+  margin: 15px auto;
 }
 
 .body-mobile.front #zone2 .contacts-list .cl-content .cl-item:hover {
@@ -2802,7 +2797,7 @@ hr {
 
 .body-mobile.front #zone2 .contacts-list .cl-content .cl-item .cl-item-photo {
   padding: 10px;
-  min-width: 148px;
+  width: 123px;
 }
 
 .body-mobile.front #zone2 .contacts-list .cl-content .cl-item .cl-item-content {
@@ -3083,8 +3078,7 @@ hr {
   font-weight: 600;
   line-height: 12px;
   letter-spacing: 0.2px;
-  position: absolute;
-  bottom: -610px;
+  bottom: -960px;
   background-size: 100% 200%;
   background-image: linear-gradient(to bottom, #7b1228 50%, #252525 50%);
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
@@ -3137,22 +3131,23 @@ hr {
 }
 
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list {
-  justify-content: space-between;
-  max-width: 1120px;
   margin: 0 auto;
 }
 
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list .gla-item {
-  margin-left: 0;
   min-height: 475px;
   background-color: white;
   padding: 10px;
   box-shadow: none;
-  width: 350px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list .gla-item a img {
   width: 100%;
+  height: 230px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list .gla-item a .gla-item-content {
@@ -3174,6 +3169,7 @@ hr {
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list .gla-item a .gla-item-content .gla-item-desc {
   text-align: left;
   color: #3c4451;
+  margin-bottom: 10px;
 }
 
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list .gla-item a .gla-item-content .gla-item-btn {
