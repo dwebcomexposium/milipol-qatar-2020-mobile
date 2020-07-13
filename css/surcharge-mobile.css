@@ -2147,6 +2147,7 @@ hr {
   text-transform: uppercase;
   border: 2px solid #d8d8d8;
   padding: 5px 15px;
+  height: 55px;
 }
 
 #zone1 .cta-arrow .ql-list .ql-item a i {
@@ -2474,6 +2475,7 @@ hr {
   margin-bottom: 10px;
   border: 2px solid #d8d8d8;
   padding: 5px 15px;
+  height: 55px;
 }
 
 .body-mobile.front #zone2 .quicklinks .ql-list .ql-item:hover {
@@ -7649,14 +7651,14 @@ h1.main-title  {
   background-color: #f39200 !important;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main {
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/articles-bg.svg);
   background-repeat: no-repeat;
   background-position: bottom left;
   background-size: auto;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main::before {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main::before {
   content: "";
   display: block;
   background-color: #7b1228;
@@ -7668,7 +7670,7 @@ h1.main-title  {
   z-index: 1;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main:after {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main:after {
   content: "";
   display: block;
   background-image: url("/theme/milipolqatar_mobile_2020_git/img/bg-general.svg");
@@ -7683,18 +7685,18 @@ h1.main-title  {
   z-index: 1;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper {
   max-width: 90rem;
   margin: 14rem auto 0 auto;
   box-shadow: none;
   background: transparent;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .main-title-with-link {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .main-title-with-link {
   margin-bottom: 180px;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside h1 {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside h1 {
   font-family: "Museo 700", sans-serif;
   font-size: 41px;
   font-weight: 700;
@@ -7705,27 +7707,27 @@ h1.main-title  {
   float: none;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .sm-item-title {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .sm-item-title {
   font-size: 2.6rem;
   color: #252525;
   margin: 3rem 0;
   font-family: "NeutrifStudio-bold", Helvetica, Arial, sans-serif;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .sm-item-link {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .sm-item-link {
   color: #252525;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .sm-item-link:hover {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .sm-item-link:hover {
   color: #9a1c36;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .content-list-bullet li:before {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .content-list-bullet li:before {
   background: #7b1228;
   border-radius: 50px;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .content-list-bullet li a {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .content-list-bullet li a {
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 600;
@@ -7733,13 +7735,13 @@ h1.main-title  {
   color: #0b1626;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .content-list-bullet li ul li {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .content-list-bullet li ul li {
   display: flex;
   flex-direction: row;
   align-items: center;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .content-list-bullet li ul li::before {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .block-page .inside .content-list-bullet li ul li::before {
   content: "";
   background-image: url("/theme/milipolqatar_mobile_2020_git/img/little-arrow-right-gold.svg");
   background-repeat: no-repeat;
@@ -7753,11 +7755,11 @@ h1.main-title  {
   margin-top: 0;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles {
   max-width: 730px;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .intro {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .intro {
   color: #9a1c36;
   font-family: "Univers LT Std", sans-serif;
   font-size: 20px;
@@ -7769,14 +7771,14 @@ h1.main-title  {
   margin-top: 200px;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item {
   position: static;
   width: 100%;
   box-shadow: none;
@@ -7784,23 +7786,23 @@ h1.main-title  {
   margin-bottom: 50px;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item a {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item a {
   display: flex;
   flex-direction: row-reverse;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item a img {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item a img {
   max-width: 300px;
   -o-object-fit: cover;
      object-fit: cover;
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item a:hover .gla-item-title {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item a:hover .gla-item-title {
   color: #9a1c36 !important;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item .gla-item-content {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item .gla-item-content {
   position: static;
   display: flex;
   flex-direction: column-reverse;
@@ -7809,7 +7811,7 @@ h1.main-title  {
   margin-right: 50px;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item .gla-item-content .gla-item-title {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item .gla-item-content .gla-item-title {
   color: #0b1626;
   font-family: "Museo 700", sans-serif;
   font-size: 28px;
@@ -7820,7 +7822,7 @@ h1.main-title  {
   text-align: left;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item .gla-item-btn .gla-btn-read-more {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item .gla-item-btn .gla-btn-read-more {
   font-family: "Univers LT Std", sans-serif;
   font-size: 12px;
   font-weight: 600;
@@ -7835,7 +7837,7 @@ h1.main-title  {
   padding-left: 0;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item .gla-item-btn .gla-btn-read-more:after {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item .gla-item-btn .gla-btn-read-more:after {
   display: block;
   content: "";
   width: 22px;
@@ -7845,7 +7847,7 @@ h1.main-title  {
   margin-left: 10px;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item .gla-item-desc {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .grid-la-list .gla-item .gla-item-desc {
   margin-bottom: 4rem;
   text-align: left;
   font-family: "Univers LT Std", sans-serif;
@@ -7855,13 +7857,13 @@ h1.main-title  {
   color: #3c4451;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination {
   border: 0;
   display: flex;
   justify-content: center;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item {
   border-radius: 80px;
   background-color: transparent;
   color: #0b1626;
@@ -7875,38 +7877,38 @@ h1.main-title  {
   padding: 1rem !important;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item a {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item a {
   background-color: transparent;
   display: flex;
   align-items: center;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item a:hover {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item a:hover {
   color: #9a1c36;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item a .icon {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item a .icon {
   display: none;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.is-active {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.is-active {
   background-color: #0b1626;
   color: white;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.is-active:hover {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.is-active:hover {
   background-color: #7b1228;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item:hover {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item:hover {
   background-color: #0b1626;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item:hover a {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item:hover a {
   color: white;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-next {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-next {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -7914,7 +7916,7 @@ h1.main-title  {
   text-transform: capitalize;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-next:after {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-next:after {
   display: block;
   content: "";
   width: 12px;
@@ -7924,15 +7926,15 @@ h1.main-title  {
   margin-left: 10px;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-next:hover {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-next:hover {
   background-color: transparent;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-next:hover a {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-next:hover a {
   color: #9a1c36;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-prev {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-prev {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -7940,7 +7942,7 @@ h1.main-title  {
   text-transform: capitalize;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-prev:before {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-prev:before {
   display: block;
   content: "";
   width: 12px;
@@ -7950,11 +7952,11 @@ h1.main-title  {
   margin-right: 10px;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-prev:hover {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-prev:hover {
   background-color: transparent;
 }
 
-.body-corpo:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-prev:hover a {
+.body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) #main .site-wrapper .layout-2-col .list-articles .pagination .pagin-item.pagin-prev:hover a {
   color: #9a1c36;
 }
 
@@ -8055,74 +8057,74 @@ h1.main-title  {
   background-color: #634e42;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main {
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/articles-bg.svg);
   background-repeat: no-repeat;
   background-position: bottom left;
   background-size: auto;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main::before {
   height: 33.5rem;
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/bg-general.svg);
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper {
   padding-bottom: 8rem;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 {
   text-align: center;
   margin-top: 100px;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 span,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 span,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 span,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 span,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 span {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 span,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 span,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 span,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 span,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper h1 span {
   position: relative;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap {
   width: 100%;
   display: block;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list {
   max-width: 730px;
   margin: 280px auto;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .sm-item-title,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .sm-item-title,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .sm-item-title,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .sm-item-title,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .sm-item-title {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .sm-item-title,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .sm-item-title,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .sm-item-title,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .sm-item-title,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .sm-item-title {
   color: #9a1c36;
   text-transform: uppercase;
   font-family: "Univers LT Std", sans-serif;
@@ -8134,20 +8136,20 @@ h1.main-title  {
   padding-bottom: 15px;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li:before,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li:before,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li:before,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li:before,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li:before {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li:before,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li:before,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li:before,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li:before,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li:before {
   background: #7b1228;
   border-radius: 50px;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li a,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li a,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li a,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li a,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li a {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li a,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li a,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li a,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li a,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li a {
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 600;
@@ -8155,21 +8157,21 @@ h1.main-title  {
   color: #0b1626;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li {
   display: flex;
   flex-direction: row;
   align-items: center;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before,
-.body-corpo.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before,
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before,
-.body-corpo.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before {
+.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before,
+.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before,
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before,
+.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) #main .site-wrapper .sitemap .sm-list .content-list-bullet li ul li::before {
   content: "";
   background-image: url("/theme/milipolqatar_mobile_2020_git/img/little-arrow-right-gold.svg");
   background-repeat: no-repeat;
@@ -8183,38 +8185,38 @@ h1.main-title  {
   margin-top: 0;
 }
 
-.body-corpo.mentions-conditions-art:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper h1,
-.body-corpo.politique-protection-art:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper h1 {
+.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper h1,
+.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper h1 {
   height: 21rem;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result {
   width: 100%;
   max-width: 730px;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside .sr-form {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside .sr-form {
   display: none;
   order: 1;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside .sr-main-title {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside .sr-main-title {
   display: flex;
   flex-direction: column;
   margin-top: 0;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside .sr-main-title .sr-term {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside .sr-main-title .sr-term {
   color: #a6945d;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside .sr-main-title .sr-nb-result {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside .sr-main-title .sr-nb-result {
   font-family: "Univers LT Std", sans-serif;
   font-size: 12px;
   font-weight: 600;
@@ -8222,19 +8224,19 @@ h1.main-title  {
   color: rgba(247, 248, 248, 0.53);
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside .sr-main-title .sr-nb-result::before {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .box-light .inside .sr-main-title .sr-nb-result::before {
   display: none;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-group {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-group {
   margin-top: 200px;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-group:first-child .sr-group-title {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-group:first-child .sr-group-title {
   margin: 3rem 0;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-group .sr-group-title {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-group .sr-group-title {
   text-align: center;
   color: #9a1c36;
   font-family: "Museo 700", sans-serif;
@@ -8244,11 +8246,11 @@ h1.main-title  {
   margin: 8rem 0 2rem;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-item {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-item {
   border-bottom: 1px solid #a6945d;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-item-title a {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-item-title a {
   color: #0b1626;
   font-family: "Museo 700", sans-serif;
   font-size: 28px;
@@ -8256,12 +8258,12 @@ h1.main-title  {
   line-height: 33px;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-item-title a:hover {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-item-title a:hover {
   color: #9a1c36;
   text-decoration: none;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-item-txt {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .sr-item-txt {
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 600;
@@ -8269,22 +8271,22 @@ h1.main-title  {
   color: #3c4451;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .gsf-fields {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .gsf-fields {
   padding: 1px;
   background: #e7e7e7;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .gsf-submit-btn {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .gsf-submit-btn {
   background-color: #252525;
   min-height: 7.2rem;
   padding: 0 2.6rem;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .gsf-submit-btn:hover {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .gsf-submit-btn:hover {
   background-color: #0b8e36;
 }
 
-.body-corpo.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .gsf-input {
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) #main .site-wrapper .search-result .gsf-input {
   padding: 2.5rem;
 }
 
