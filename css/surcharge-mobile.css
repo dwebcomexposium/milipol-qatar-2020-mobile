@@ -1083,7 +1083,7 @@ hr {
 }
 
 .site-banner.is-stuck > .inside .main-navigation .mn-menu-item-855024 a {
-  content: url("/theme/milipolqatar_mobile_2020_git/img/logo-milipol-qata-black.svg") !important;
+  content: url("/theme/milipolqatar_mobile_2020_git/img/logo.svg") !important;
 }
 
 .site-banner.is-stuck .intro-home {
@@ -1560,16 +1560,17 @@ hr {
 }
 
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1 .mn-link {
-  font-family: "Univers LT Std", sans-serif;
-  font-size: 1.5rem;
-  font-weight: 700;
-  line-height: 18px;
-  text-transform: uppercase;
   height: 52px;
 }
 
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1 .mn-link .mn-link-text {
   color: white;
+  font-family: "Univers LT Std", sans-serif;
+  font-size: 2.3125rem;
+  font-weight: 600;
+  line-height: 17px;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
 }
 
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1 .mn-link .mn-link-text:hover {
@@ -1687,14 +1688,15 @@ hr {
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-menu-item-855024 {
   background-image: none;
   width: auto;
-  top: -50px;
-  left: 10px;
+  top: -10px;
+  left: 30px;
   margin-bottom: 0;
+  position: absolute;
 }
 
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-menu-item-855024 a {
   text-indent: -100rem;
-  content: url("/theme/milipolqatar_mobile_2020_git/img/logo-milipol-qata-white.svg");
+  content: url("/theme/milipolqatar_mobile_2020_git/img/logo.svg");
   width: 325px;
   margin: -1.5rem 0;
   max-width: 292px;
@@ -1703,7 +1705,7 @@ hr {
 
 @media screen and (max-width: 1500px) {
   .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-menu-item-855024 a {
-    width: 180px;
+    width: 50px;
   }
 }
 
