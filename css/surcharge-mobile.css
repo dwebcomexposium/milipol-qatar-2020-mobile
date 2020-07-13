@@ -1837,9 +1837,10 @@ hr {
 
 .site-footer .first-container .follow-us {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: 100%;
 }
 
 .site-footer .first-container .follow-us .text {
@@ -1848,14 +1849,16 @@ hr {
   font-weight: 700;
   line-height: 29px;
   color: white;
-  margin-right: 50px;
+  margin: 50px;
   width: 200px;
+  text-align: center;
 }
 
 .site-footer .first-container .follow-us .nav-social {
   display: flex;
   flex-direction: row;
   align-items: center;
+  margin-bottom: 50px;
 }
 
 .site-footer .first-container .follow-us .nav-social a:not(:last-child) {
@@ -1884,6 +1887,7 @@ hr {
   color: white;
   margin-left: 30px;
   text-transform: uppercase;
+  display: none;
 }
 
 .site-footer .second-container {
@@ -1900,7 +1904,7 @@ hr {
 
 .site-footer .second-container .logos {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: space-between;
   padding-top: 25px;
@@ -1908,6 +1912,7 @@ hr {
 
 .site-footer .second-container .logos .left-text {
   max-width: 345px;
+  margin-bottom: 30px;
 }
 
 .site-footer .second-container .logos .left-text p {
@@ -1920,6 +1925,10 @@ hr {
 
 .site-footer .second-container .logos .center-logo img {
   max-width: 160px;
+}
+
+.site-footer .second-container .logos .right-logos {
+  margin-bottom: 30px;
 }
 
 .site-footer .second-container .logos .right-logos .first-logo {
@@ -1940,13 +1949,13 @@ hr {
   text-align: center;
   text-transform: uppercase;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
 .site-footer .third-container a:not(:last-child) {
-  margin-right: 15px;
+  margin-bottom: 15px;
 }
 
 .site-footer .third-container a:hover {
@@ -3217,14 +3226,14 @@ hr {
   background-position: center bottom;
   background-size: 60%;
   background-color: #f7f8f8;
-  padding: 150px 150px 50px 150px;
+  padding: 15px;
 }
 
 .body-mobile.front #zone2 .business-areas .block-title {
   font-family: "Museo 700", sans-serif;
   font-size: 33px;
   font-weight: 700;
-  line-height: 16px;
+  line-height: 40px;
   color: #0b1626;
   margin-bottom: 53px;
   text-align: center;
@@ -3241,7 +3250,8 @@ hr {
 .body-mobile.front #zone2 .business-areas .item-list a {
   height: 144px;
   margin-bottom: 15px;
-  margin-left: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .body-mobile.front #zone2 .business-areas .item-list a:hover .red-overlay {
@@ -3313,19 +3323,20 @@ hr {
 
 .body-mobile.front #zone2 .key-numbers {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   max-width: 1120px;
   margin: 0 auto;
   z-index: 1;
   position: relative;
-  padding: 80px 0;
+  padding: 15px;
+  width: 370px;
 }
 
 .body-mobile.front #zone2 .key-numbers .text {
   display: flex;
   flex-direction: column;
-  margin-top: 45px;
+  text-align: center;
   color: #0b1626;
   font-family: "Museo 700", sans-serif;
   font-size: 33px;
@@ -3342,17 +3353,12 @@ hr {
 }
 
 .body-mobile.front #zone2 .key-numbers .container-numbers {
-  border-bottom: 1px solid #d8d8d8;
   display: flex;
   list-style: none;
   padding: 0;
-  justify-content: space-between;
   align-items: stretch;
-  align-content: stretch;
   text-align: center;
-  margin-left: 40px;
-  margin-top: -70px;
-  width: 78%;
+  flex-wrap: wrap;
 }
 
 .body-mobile.front #zone2 .key-numbers .container-numbers .link {
@@ -3367,15 +3373,16 @@ hr {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  top: 50px;
 }
 
 .body-mobile.front #zone2 .key-numbers .container-numbers .link:first-child {
   margin-left: -85px;
+  display: none;
 }
 
 .body-mobile.front #zone2 .key-numbers .container-numbers .link:first-child:after {
   background-color: #9a1c36;
+  display: none;
 }
 
 .body-mobile.front #zone2 .key-numbers .container-numbers .link:last-child {
@@ -3393,10 +3400,7 @@ hr {
   left: 50%;
   -webkit-transform: translatex(-50%);
           transform: translatex(-50%);
-}
-
-.body-mobile.front #zone2 .key-numbers .container-numbers .link p {
-  margin-bottom: 20px;
+  display: none;
 }
 
 .body-mobile.front #zone2 .key-numbers .container-numbers .link span {
@@ -3437,7 +3441,6 @@ hr {
 #zone4 {
   display: flex;
   flex-flow: column wrap;
-  margin-bottom: -300px;
 }
 
 #zone4 .ads {
@@ -3452,7 +3455,7 @@ hr {
 }
 
 #zone4 :nth-child(2) {
-  width: 50%;
+  width: 100%;
   display: flex;
   align-self: flex-start;
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/last-section-background.png);
@@ -3464,8 +3467,7 @@ hr {
 
 #zone4 :nth-child(3) {
   position: relative;
-  top: -300px;
-  width: 50%;
+  width: 100%;
   display: flex;
   align-self: flex-end;
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/last-section-background-2.png);
