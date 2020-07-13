@@ -285,11 +285,13 @@ h2 {
   color: white;
   font-size: 1.4rem;
   padding: 2rem 0;
+  position: fixed;
+  z-index: 9999;
 }
 
 .cc-cookies .inside {
   max-width: 116rem;
-  padding-right: 12rem !important;
+  padding: 0 2rem !important;
 }
 
 .cc-cookies .cc-cookie-accept {
@@ -297,6 +299,12 @@ h2 {
   color: white;
   font-weight: normal;
   padding: 1rem 2.5rem;
+  font-weight: 400;
+  margin: 0 auto !important;
+  display: block;
+  width: 24rem;
+  text-align: center;
+  position: initial;
 }
 
 .cc-cookies .cc-cookie-accept:hover {
@@ -2221,7 +2229,8 @@ hr {
 .body-mobile.front #zone2 .edito-about,
 .body-mobile.front #zone2 .discover-qatar {
   max-width: 1120px;
-  padding: 50px 0;
+  padding: 15px;
+  height: 550px;
 }
 
 .body-mobile.front #zone2 .edito-about .inside,
@@ -2236,7 +2245,7 @@ hr {
 .body-mobile.front #zone2 .edito-about .inside img,
 .body-mobile.front #zone2 .discover-qatar .inside img {
   max-width: 540px;
-  height: 396px;
+  height: 245px;
   -o-object-fit: cover;
      object-fit: cover;
   margin-top: -18px;
@@ -2246,8 +2255,7 @@ hr {
 .body-mobile.front #zone2 .edito-about .inside h2,
 .body-mobile.front #zone2 .discover-qatar .inside h2 {
   position: absolute;
-  left: 55%;
-  top: 60px;
+  top: 20px;
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 600;
@@ -2280,8 +2288,7 @@ hr {
 .body-mobile.front #zone2 .edito-about .inside h3,
 .body-mobile.front #zone2 .discover-qatar .inside h3 {
   position: absolute;
-  left: 55%;
-  top: 100px;
+  top: 280px;
   margin-top: 0;
   font-family: "Museo 700", sans-serif;
   font-size: 28px;
@@ -2294,8 +2301,7 @@ hr {
 .body-mobile.front #zone2 .edito-about .inside p,
 .body-mobile.front #zone2 .discover-qatar .inside p {
   position: absolute;
-  left: 55%;
-  top: 170px;
+  top: 340px;
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 500;
@@ -2337,7 +2343,7 @@ hr {
 .body-mobile.front #zone2 .discover-qatar .inside .lien1 {
   top: 160px;
   border: 2px solid transparent;
-  width: 207px;
+  width: 190px;
 }
 
 .body-mobile.front #zone2 .edito-about .inside .lien1:after,
@@ -2357,8 +2363,8 @@ hr {
   color: #0b1626;
   border: 2px solid rgba(11, 22, 38, 0.13);
   top: 160px;
-  left: 220px;
-  width: 207px;
+  left: 200px;
+  width: 150px;
 }
 
 .body-mobile.front #zone2 .edito-about .inside .lien2:hover,
@@ -2372,37 +2378,42 @@ hr {
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
+.body-mobile.front #zone2 .discover-qatar {
+  height: 650px;
+}
+
 .body-mobile.front #zone2 .discover-qatar .inside {
   flex-direction: column;
 }
 
 .body-mobile.front #zone2 .discover-qatar .inside img {
   position: relative;
-  left: 52%;
 }
 
 .body-mobile.front #zone2 .discover-qatar .inside h2 {
   left: 0;
   position: absolute;
-  top: 40px;
+  top: 260px;
 }
 
 .body-mobile.front #zone2 .discover-qatar .inside h3 {
   left: 0;
-  top: 80px;
+  top: 300px;
 }
 
 .body-mobile.front #zone2 .discover-qatar .inside p {
-  top: 150px;
+  top: 370px;
   left: 0;
 }
 
 .body-mobile.front #zone2 .discover-qatar .inside .lien1 {
   top: 160px;
+  width: 160px;
 }
 
 .body-mobile.front #zone2 .discover-qatar .inside .lien2 {
   top: 160px;
+  width: 160px;
 }
 
 .body-mobile.front #zone2 .prepare {
