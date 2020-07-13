@@ -334,8 +334,8 @@ h2 {
 }
 
 .lang-switcher {
-  top: -50px;
-  right: 0;
+  top: -55px;
+  right: 160px;
   background-color: transparent;
 }
 
@@ -1461,6 +1461,7 @@ hr {
   width: 100%;
   top: 0;
   height: 100vh;
+  display: none;
 }
 
 .site-banner > .inside .main-navigation + .main-navigation {
@@ -1553,6 +1554,11 @@ hr {
   height: 100vh;
   /*logo*/
   /*BTN EXPOSANT/BADGE*/
+}
+
+.site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1 {
+  background-color: transparent !important;
+  border: 0;
 }
 
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1:nth-last-child(-n + 2) .mn-link, .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1:first-child .mn-link {
@@ -1713,12 +1719,36 @@ hr {
 .sb-menu-trigger {
   z-index: 99999;
   position: absolute;
-  right: 0;
-  top: 25px;
+  right: 20px;
+  left: initial;
+  top: 0px;
+  width: 21px;
+  height: 18px;
+}
+
+.sb-menu-trigger i {
+  display: none;
+}
+
+.sb-menu-trigger:after {
+  content: "";
+  width: 21px;
+  height: 18px;
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/burger.svg);
+  background-repeat: no-repeat;
+  display: block;
+}
+
+.sb-menu-trigger.is-open:after {
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/cross.svg);
 }
 
 .mn-menu {
   background-color: rgba(154, 28, 54, 0.9);
+}
+
+.mn-item-has-submenu::after {
+  display: none;
 }
 
 .site-footer {
@@ -2015,15 +2045,9 @@ hr {
   background-color: #7b1228;
   background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%);
   background-size: 360px;
-  margin-top: 150px;
+  margin-top: 59px;
   padding-top: 50px;
   position: relative;
-}
-
-@media screen and (max-width: 1500px) {
-  .intro-home {
-    margin-top: 140px;
-  }
 }
 
 .intro-home h1 {
@@ -2223,6 +2247,10 @@ hr {
   font-weight: 900;
   line-height: 52px;
   color: #9a1c1c;
+}
+
+#zone1 .opening-in .container-dates .date img {
+  max-width: 70px;
 }
 
 #zone1 .opening-in .container-dates .date span {
@@ -2972,6 +3000,8 @@ hr {
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .slider-content .pg-item {
   border: 1px solid #d8d8d8;
+  margin-right: 25px;
+  max-width: 178px;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .slider-content .pg-item .pg-item-link:hover {
