@@ -6731,24 +6731,24 @@ h1.main-title  {
   margin-top: 0;
 }
 
-.body-mobile .wrapper .zone .article-title {
+.body-mobile .wrapper .article-title {
   max-width: 730px;
   margin-bottom: 3rem;
 }
 
-.body-mobile .wrapper .zone .article-title > .inside {
+.body-mobile .wrapper .article-title > .inside {
   display: flex;
   flex-direction: column;
 }
 
-.body-mobile .wrapper .zone .article-title > .inside img {
+.body-mobile .wrapper .article-title > .inside img {
   width: 100%;
   height: auto;
   order: 2;
   margin-bottom: -10rem;
 }
 
-.body-mobile .wrapper .zone .article-title > .inside h1 {
+.body-mobile .wrapper .article-title > .inside h1 {
   font-size: 5.2rem;
   margin-top: 0;
   color: white;
@@ -6756,11 +6756,11 @@ h1.main-title  {
   margin-bottom: 3rem;
 }
 
-.body-mobile .wrapper .zone .article-title .at-publication {
+.body-mobile .wrapper .article-title .at-publication {
   display: none;
 }
 
-.body-mobile .wrapper .zone .article-intro {
+.body-mobile .wrapper .article-intro {
   color: #9a1c36;
   font-family: "Univers LT Std", sans-serif;
   font-size: 20px;
@@ -6772,7 +6772,7 @@ h1.main-title  {
   max-width: 730px;
 }
 
-.body-mobile .wrapper .zone .article-content {
+.body-mobile .wrapper .article-content {
   max-width: 730px;
   margin: 0 auto 150px auto;
   /* figure.fr */
@@ -6782,13 +6782,13 @@ h1.main-title  {
   /*tableau*/
 }
 
-.body-mobile .wrapper .zone .article-content p.important1:nth-child(2) {
+.body-mobile .wrapper .article-content p.important1:nth-child(2) {
   border: 0;
   background: transparent;
 }
 
-.body-mobile .wrapper .zone .article-content a,
-.body-mobile .wrapper .zone .article-content a.externe {
+.body-mobile .wrapper .article-content a,
+.body-mobile .wrapper .article-content a.externe {
   background: transparent;
   padding: 0;
   color: #9a1c36;
@@ -6797,13 +6797,13 @@ h1.main-title  {
   text-decoration: underline;
 }
 
-.body-mobile .wrapper .zone .article-content a:hover,
-.body-mobile .wrapper .zone .article-content a.externe:hover {
+.body-mobile .wrapper .article-content a:hover,
+.body-mobile .wrapper .article-content a.externe:hover {
   background-color: transparent;
   text-decoration: none;
 }
 
-.body-mobile .wrapper .zone .article-content h2 {
+.body-mobile .wrapper .article-content h2 {
   font-family: "Museo 700", sans-serif;
   font-size: 41px;
   font-weight: 700;
@@ -6811,7 +6811,7 @@ h1.main-title  {
   color: #9a1c36;
 }
 
-.body-mobile .wrapper .zone .article-content h3 {
+.body-mobile .wrapper .article-content h3 {
   font-family: "Museo 700", sans-serif;
   font-size: 31px;
   font-weight: 700;
@@ -6819,7 +6819,7 @@ h1.main-title  {
   color: #0b1626;
 }
 
-.body-mobile .wrapper .zone .article-content h4 {
+.body-mobile .wrapper .article-content h4 {
   font-family: "Museo 700", sans-serif;
   font-size: 20px;
   font-weight: 700;
@@ -6829,7 +6829,7 @@ h1.main-title  {
   text-transform: uppercase;
 }
 
-.body-mobile .wrapper .zone .article-content blockquote {
+.body-mobile .wrapper .article-content blockquote {
   margin: 7rem 0 5rem;
   width: 100vw !important;
   margin-left: 50% !important;
@@ -6844,7 +6844,7 @@ h1.main-title  {
   max-width: initial;
 }
 
-.body-mobile .wrapper .zone .article-content blockquote::before {
+.body-mobile .wrapper .article-content blockquote::before {
   content: "";
   background: url("/theme/milipolqatar_mobile_2020_git/img/quotes.svg");
   position: absolute;
@@ -6856,7 +6856,7 @@ h1.main-title  {
           transform: translateX(-50%);
 }
 
-.body-mobile .wrapper .zone .article-content blockquote p {
+.body-mobile .wrapper .article-content blockquote p {
   color: white;
   border: 0;
   font-family: "Univers LT Std", sans-serif;
@@ -6867,7 +6867,7 @@ h1.main-title  {
   margin: 50px auto;
 }
 
-.body-mobile .wrapper .zone .article-content blockquote .important1 {
+.body-mobile .wrapper .article-content blockquote .important1 {
   text-align: center;
   padding: 0 !important;
   opacity: 1;
@@ -6884,7 +6884,7 @@ h1.main-title  {
   margin: 15px auto 0 auto;
 }
 
-.body-mobile .wrapper .zone .article-content blockquote .important1:before {
+.body-mobile .wrapper .article-content blockquote .important1:before {
   display: block;
   height: 2px;
   width: 60px;
@@ -6895,7 +6895,7 @@ h1.main-title  {
   background-color: #a6945d;
 }
 
-.body-mobile .wrapper .zone .article-content blockquote .important2 {
+.body-mobile .wrapper .article-content blockquote .important2 {
   text-align: center;
   padding: 0 !important;
   opacity: 1;
@@ -6910,11 +6910,11 @@ h1.main-title  {
   margin: 10px auto;
 }
 
-.body-mobile .wrapper .zone .article-content blockquote .icon-quote {
+.body-mobile .wrapper .article-content blockquote .icon-quote {
   display: none;
 }
 
-.body-mobile .wrapper .zone .article-content .container-bloc-important {
+.body-mobile .wrapper .article-content .container-bloc-important {
   background-color: #f2efe6;
   padding: 15px;
   border-left: 2px solid #a6945d;
@@ -6927,11 +6927,11 @@ h1.main-title  {
   align-items: center;
 }
 
-.body-mobile .wrapper .zone .article-content .container-bloc-important .bloc-important-img {
+.body-mobile .wrapper .article-content .container-bloc-important .bloc-important-img {
   margin-right: 15px;
 }
 
-.body-mobile .wrapper .zone .article-content .container-bloc-important-noimg {
+.body-mobile .wrapper .article-content .container-bloc-important-noimg {
   background-color: #f2efe6;
   padding: 15px;
   border-left: 2px solid #a6945d;
@@ -6942,23 +6942,23 @@ h1.main-title  {
   line-height: 26px;
 }
 
-.body-mobile .wrapper .zone .article-content figure.fr {
+.body-mobile .wrapper .article-content figure.fr {
   border: 0;
 }
 
-.body-mobile .wrapper .zone .article-content figure.fr img {
+.body-mobile .wrapper .article-content figure.fr img {
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
 }
 
-.body-mobile .wrapper .zone .article-content figure.fr figcaption {
+.body-mobile .wrapper .article-content figure.fr figcaption {
   margin-top: 20px;
 }
 
-.body-mobile .wrapper .zone .article-content figure.fr figcaption strong {
+.body-mobile .wrapper .article-content figure.fr figcaption strong {
   display: none;
 }
 
-.body-mobile .wrapper .zone .article-content figure.fr figcaption p {
+.body-mobile .wrapper .article-content figure.fr figcaption p {
   text-transform: uppercase;
   font-family: "Univers LT Std", sans-serif;
   font-size: 12px;
@@ -6968,7 +6968,7 @@ h1.main-title  {
   color: #0b1626;
 }
 
-.body-mobile .wrapper .zone .article-content figure.fr small {
+.body-mobile .wrapper .article-content figure.fr small {
   font-family: "Univers LT Std", sans-serif;
   font-size: 11px;
   font-weight: 600;
@@ -6976,25 +6976,25 @@ h1.main-title  {
   color: #3c4451;
 }
 
-.body-mobile .wrapper .zone .article-content figure.center {
+.body-mobile .wrapper .article-content figure.center {
   border: 0;
   text-align: left;
 }
 
-.body-mobile .wrapper .zone .article-content figure.center img {
+.body-mobile .wrapper .article-content figure.center img {
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
 }
 
-.body-mobile .wrapper .zone .article-content figure.center figcaption {
+.body-mobile .wrapper .article-content figure.center figcaption {
   margin-top: 20px;
   text-align: left;
 }
 
-.body-mobile .wrapper .zone .article-content figure.center figcaption strong {
+.body-mobile .wrapper .article-content figure.center figcaption strong {
   display: none;
 }
 
-.body-mobile .wrapper .zone .article-content figure.center figcaption p {
+.body-mobile .wrapper .article-content figure.center figcaption p {
   text-transform: uppercase;
   font-family: "Univers LT Std", sans-serif;
   font-size: 12px;
@@ -7004,7 +7004,7 @@ h1.main-title  {
   color: #0b1626;
 }
 
-.body-mobile .wrapper .zone .article-content figure.center small {
+.body-mobile .wrapper .article-content figure.center small {
   font-family: "Univers LT Std", sans-serif;
   font-size: 11px;
   font-weight: 600;
@@ -7013,12 +7013,12 @@ h1.main-title  {
   text-align: left;
 }
 
-.body-mobile .wrapper .zone .article-content .focus1 {
+.body-mobile .wrapper .article-content .focus1 {
   margin-top: 3rem;
   margin-bottom: 5rem;
 }
 
-.body-mobile .wrapper .zone .article-content .focus1 a {
+.body-mobile .wrapper .article-content .focus1 a {
   display: inline-flex;
   text-decoration: none;
   padding: 2rem 3rem;
@@ -7036,23 +7036,23 @@ h1.main-title  {
 }
 
 @media screen and (max-width: 1500px) {
-  .body-mobile .wrapper .zone .article-content .focus1 a {
+  .body-mobile .wrapper .article-content .focus1 a {
     padding: 1.5rem;
   }
 }
 
-.body-mobile .wrapper .zone .article-content .focus1 a.externe {
+.body-mobile .wrapper .article-content .focus1 a.externe {
   color: white;
   background-color: #7b1228;
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
   border: 0;
 }
 
-.body-mobile .wrapper .zone .article-content .focus2 {
+.body-mobile .wrapper .article-content .focus2 {
   margin-bottom: 5rem;
 }
 
-.body-mobile .wrapper .zone .article-content .focus2 a {
+.body-mobile .wrapper .article-content .focus2 a {
   display: inline-flex;
   align-items: center;
   text-decoration: none;
@@ -7071,12 +7071,12 @@ h1.main-title  {
 }
 
 @media screen and (max-width: 1500px) {
-  .body-mobile .wrapper .zone .article-content .focus2 a {
+  .body-mobile .wrapper .article-content .focus2 a {
     padding: 1.5rem;
   }
 }
 
-.body-mobile .wrapper .zone .article-content .focus2 a:after {
+.body-mobile .wrapper .article-content .focus2 a:after {
   content: "";
   width: 22px;
   height: 8px;
@@ -7086,22 +7086,22 @@ h1.main-title  {
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
 }
 
-.body-mobile .wrapper .zone .article-content .focus2 a.externe {
+.body-mobile .wrapper .article-content .focus2 a.externe {
   color: white;
   background-color: #7b1228;
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
   border: 0;
 }
 
-.body-mobile .wrapper .zone .article-content .focus2 a.externe:hover {
+.body-mobile .wrapper .article-content .focus2 a.externe:hover {
   background-color: #7f142a;
 }
 
-.body-mobile .wrapper .zone .article-content p.style3 {
+.body-mobile .wrapper .article-content p.style3 {
   margin-bottom: 5rem;
 }
 
-.body-mobile .wrapper .zone .article-content p.style3 a.lien4.zip {
+.body-mobile .wrapper .article-content p.style3 a.lien4.zip {
   padding: 1.4rem 2.8rem;
   font-size: 1.3rem;
   color: gray;
@@ -7118,17 +7118,17 @@ h1.main-title  {
   position: relative;
 }
 
-.body-mobile .wrapper .zone .article-content p.style3 a.lien4.zip:focus, .body-mobile .wrapper .zone .article-content p.style3 a.lien4.zip:hover {
+.body-mobile .wrapper .article-content p.style3 a.lien4.zip:focus, .body-mobile .wrapper .article-content p.style3 a.lien4.zip:hover {
   background-color: #e4e4e4;
   color: #0b1626;
 }
 
-.body-mobile .wrapper .zone .article-content p.style4 {
+.body-mobile .wrapper .article-content p.style4 {
   margin-bottom: 4rem;
   margin-top: 4rem;
 }
 
-.body-mobile .wrapper .zone .article-content p.style4 a.lien4.pdf {
+.body-mobile .wrapper .article-content p.style4 a.lien4.pdf {
   font-family: "Univers LT Std", sans-serif;
   font-size: 12px;
   font-weight: 600;
@@ -7147,27 +7147,27 @@ h1.main-title  {
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
 }
 
-.body-mobile .wrapper .zone .article-content p.style4 a.lien4.pdf:hover {
+.body-mobile .wrapper .article-content p.style4 a.lien4.pdf:hover {
   background-color: #7f142a;
 }
 
-.body-mobile .wrapper .zone .article-content ul li::before {
+.body-mobile .wrapper .article-content ul li::before {
   width: 6px;
   height: 6px;
   background: #7b1228;
   border-radius: 50px;
 }
 
-.body-mobile .wrapper .zone .article-content .table1 tr:nth-child(1) {
+.body-mobile .wrapper .article-content .table1 tr:nth-child(1) {
   background: #0b1626;
   color: white;
 }
 
-.body-mobile .wrapper .zone .article-content .table1 tr:nth-child(1) td {
+.body-mobile .wrapper .article-content .table1 tr:nth-child(1) td {
   border-color: #252525 !important;
 }
 
-.body-mobile .wrapper .zone .article-content .table1 tr:nth-child(1) p {
+.body-mobile .wrapper .article-content .table1 tr:nth-child(1) p {
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 600;
@@ -7177,7 +7177,7 @@ h1.main-title  {
   text-transform: uppercase;
 }
 
-.body-mobile .wrapper .zone .article-content .table1 tr td:nth-child(1) {
+.body-mobile .wrapper .article-content .table1 tr td:nth-child(1) {
   border-right: 1px solid #e2e2e2 !important;
   text-align: center;
   border-bottom: 0 none;
@@ -7185,7 +7185,7 @@ h1.main-title  {
   padding: 1.2em;
 }
 
-.body-mobile .wrapper .zone .article-content .table1 tr td:nth-child(1) p {
+.body-mobile .wrapper .article-content .table1 tr td:nth-child(1) p {
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 600;
@@ -7195,7 +7195,7 @@ h1.main-title  {
   text-transform: uppercase;
 }
 
-.body-mobile .wrapper .zone .article-content .table1 tr td {
+.body-mobile .wrapper .article-content .table1 tr td {
   border-right: 1px solid #e2e2e2 !important;
   text-align: center;
   border-bottom: 0 none;
@@ -7203,7 +7203,7 @@ h1.main-title  {
   padding: 1.2em;
 }
 
-.body-mobile .wrapper .zone .article-content .table1 tr td p {
+.body-mobile .wrapper .article-content .table1 tr td p {
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 500;
@@ -7212,19 +7212,19 @@ h1.main-title  {
   color: #3c4451;
 }
 
-.body-mobile .wrapper .zone .article-content .table3 tbody tr {
+.body-mobile .wrapper .article-content .table3 tbody tr {
   background-color: initial;
   color: initial;
 }
 
-.body-mobile .wrapper .zone .article-content .table3 tbody tr td {
+.body-mobile .wrapper .article-content .table3 tbody tr td {
   border: 0 !important;
   border-right: initial;
   text-align: initial;
   border-color: initial !important;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content {
+.body-mobile .wrapper .article-content .cl-content {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -7232,12 +7232,12 @@ h1.main-title  {
 }
 
 @media screen and (max-width: 1299px) {
-  .body-mobile .wrapper .zone .article-content .cl-content {
+  .body-mobile .wrapper .article-content .cl-content {
     justify-content: center;
   }
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item {
+.body-mobile .wrapper .article-content .cl-content .cl-item {
   display: flex;
   flex-direction: column;
   flex: 0 1 100%;
@@ -7247,7 +7247,7 @@ h1.main-title  {
   border: 0 none;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-illust {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-illust {
   min-width: 15rem;
   background-color: #efefef;
   align-self: flex-start;
@@ -7258,19 +7258,19 @@ h1.main-title  {
   width: 260px;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-illust img {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-illust img {
   height: auto;
   width: 100%;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content {
   background: white;
   position: relative;
   padding: 1.6rem 0 3.7rem !important;
   flex-basis: 100%;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content .h3-like {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content .h3-like {
   margin: 0;
   color: #9a1c36;
   letter-spacing: 0.25px;
@@ -7280,7 +7280,7 @@ h1.main-title  {
   line-height: 18px;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content .cl-item-subtitle {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-subtitle {
   color: #0b1626;
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
@@ -7292,7 +7292,7 @@ h1.main-title  {
   min-height: 2.1rem;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content .cl-item-subtitle:before {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-subtitle:before {
   content: "";
   position: absolute;
   width: 50px;
@@ -7301,7 +7301,7 @@ h1.main-title  {
   bottom: -0.9rem;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content .cl-item-address {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-address {
   padding-top: 2.3rem;
   line-height: 2.1rem;
   font-family: "NeutrifStudio-regular", Helvetica, Arial, sans-serif;
@@ -7309,25 +7309,25 @@ h1.main-title  {
   font-size: 1.6rem;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content .cl-item-address .cl-item-country {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-address .cl-item-country {
   margin-top: 1rem;
   display: block;
   font-family: "NeutrifStudio-bold", Helvetica, Arial, sans-serif;
   color: #252525;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content .cl-item-desc {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-desc {
   font-size: 1.6rem;
   font-family: "NeutrifStudio-regular", Helvetica, Arial, sans-serif;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content p.cl-item-email {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content p.cl-item-email {
   margin: 0.3rem 0 0 0;
   padding-top: 0;
   font-size: 1.5rem;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content p.cl-item-email .label {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content p.cl-item-email .label {
   font-family: "Univers LT Std", sans-serif;
   font-size: 13px;
   font-weight: 500;
@@ -7335,7 +7335,7 @@ h1.main-title  {
   color: #3c4451;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content p.cl-item-email span.__cf_email__ {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content p.cl-item-email span.__cf_email__ {
   font-size: 1.4rem;
   margin-left: 0.5rem;
   font-family: "Univers LT Std", sans-serif;
@@ -7345,15 +7345,15 @@ h1.main-title  {
   color: #3c4451;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content .cl-item-phone {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-phone {
   margin: 0 0 -2rem 0;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content .cl-item-phone .label {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-phone .label {
   font-size: 1.5rem;
 }
 
-.body-mobile .wrapper .zone .article-content .cl-content .cl-item .cl-item-content .cl-item-phone span:nth-child(2) {
+.body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-content .cl-item-phone span:nth-child(2) {
   font-family: "Univers LT Std", sans-serif;
   font-size: 13px;
   font-weight: 500;
@@ -7363,11 +7363,11 @@ h1.main-title  {
   display: inline;
 }
 
-.body-mobile .wrapper .zone .article-content ul li {
+.body-mobile .wrapper .article-content ul li {
   padding-left: 20px !important;
 }
 
-.body-mobile .wrapper .zone .article-content ul li ul li::before {
+.body-mobile .wrapper .article-content ul li ul li::before {
   -webkit-transform: none;
           transform: none;
   content: " ";
@@ -7383,7 +7383,7 @@ h1.main-title  {
   background-color: transparent;
 }
 
-.body-mobile .wrapper .zone .did-you-know {
+.body-mobile .wrapper .did-you-know {
   width: 100vw !important;
   margin-left: 50% !important;
   -webkit-transform: translateX(-50%) !important;
@@ -7398,12 +7398,12 @@ h1.main-title  {
   margin: 50px;
 }
 
-.body-mobile .wrapper .zone .did-you-know .container-left {
+.body-mobile .wrapper .did-you-know .container-left {
   width: 330px;
   padding: 0 50px;
 }
 
-.body-mobile .wrapper .zone .did-you-know .container-right .title {
+.body-mobile .wrapper .did-you-know .container-right .title {
   color: #0b1626;
   font-family: "Museo 700", sans-serif;
   font-size: 28px;
@@ -7412,7 +7412,7 @@ h1.main-title  {
   margin-bottom: 15px;
 }
 
-.body-mobile .wrapper .zone .did-you-know .container-right .content {
+.body-mobile .wrapper .did-you-know .container-right .content {
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 500;
@@ -7421,15 +7421,15 @@ h1.main-title  {
   margin-bottom: 15px;
 }
 
-.body-mobile .wrapper .zone .did-you-know .container-right .cta {
+.body-mobile .wrapper .did-you-know .container-right .cta {
   max-width: 250px;
 }
 
-.body-mobile .wrapper .zone .did-you-know .container-right .cta .btn {
+.body-mobile .wrapper .did-you-know .container-right .cta .btn {
   width: 100%;
 }
 
-.body-mobile .wrapper .zone .separator {
+.body-mobile .wrapper .separator {
   width: 100vw !important;
   margin-left: 50% !important;
   -webkit-transform: translateX(-50%) !important;
@@ -7440,22 +7440,22 @@ h1.main-title  {
   margin: 100px 0;
 }
 
-.body-mobile .wrapper .zone .article-navigation {
+.body-mobile .wrapper .article-navigation {
   margin-bottom: 10rem;
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside {
+.body-mobile .wrapper .article-navigation .inside {
   margin: 3rem 0;
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled {
+.body-mobile .wrapper .article-navigation .inside .unstyled {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled .an-item {
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item {
   max-width: none;
   max-height: 202px;
   display: flex;
@@ -7464,18 +7464,18 @@ h1.main-title  {
   width: 40%;
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled .an-item .an-item-link {
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link {
   height: 202px;
   width: 540px;
   margin: 0 auto;
   background-color: #0b1626;
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled .an-item .an-item-link:hover:after {
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link:hover:after {
   background: rgba(154, 28, 54, 0.65);
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled .an-item .an-item-link:after {
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link:after {
   content: "\A";
   position: absolute;
   width: 100%;
@@ -7485,7 +7485,7 @@ h1.main-title  {
   background: rgba(11, 22, 38, 0.65);
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content {
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content {
   width: 100%;
   padding: 1.5rem 2rem;
   position: absolute;
@@ -7500,7 +7500,7 @@ h1.main-title  {
   z-index: 1;
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content .an-item-title {
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content .an-item-title {
   font-family: "Museo 700", sans-serif;
   font-size: 24px;
   font-weight: 700;
@@ -7510,15 +7510,15 @@ h1.main-title  {
   max-width: 450px;
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content .an-item-publication {
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content .an-item-publication {
   display: none;
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content .icon {
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content .icon {
   display: none;
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content:after {
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content:after {
   content: "";
   width: 22px;
   height: 8px;
@@ -7528,7 +7528,7 @@ h1.main-title  {
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
 }
 
-.body-mobile .wrapper .zone .article-navigation .inside .unstyled .an-item .an-item-link img {
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link img {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
