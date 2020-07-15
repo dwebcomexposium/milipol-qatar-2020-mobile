@@ -369,7 +369,7 @@ abbr[title] {
 
 #cxpmClientAccountWidget {
   position: absolute !important;
-  top: 20px;
+  top: 15px;
   right: 60px;
 }
 
@@ -467,6 +467,7 @@ abbr[title] {
   padding: 1px;
   margin-right: -2px;
   top: 70px !important;
+  width: 70vw;
 }
 
 .site-banner .gsf-submit-btn {
@@ -1422,7 +1423,7 @@ hr {
 
 .site-banner > .inside button.gsf-trigger.js-toggle-trigger.unstyled {
   position: absolute;
-  top: 0;
+  top: -4px;
   right: 0;
   margin: 0;
   padding: 0;
@@ -1556,9 +1557,14 @@ hr {
   /*BTN EXPOSANT/BADGE*/
 }
 
+.site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-menu-item-851815 {
+  margin-top: 80px;
+}
+
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1 {
   background-color: transparent !important;
   border: 0;
+  min-height: 35px;
 }
 
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1:nth-last-child(-n + 2) .mn-link, .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1:first-child .mn-link {
@@ -1566,7 +1572,7 @@ hr {
 }
 
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1 .mn-link {
-  height: 52px;
+  height: initial;
 }
 
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1 .mn-link .mn-link-text {
@@ -1645,13 +1651,13 @@ hr {
   text-transform: none;
   display: flex;
   align-items: center;
-  height: 10px;
+  height: initial;
 }
 
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1 .mn-menu-submenu .mn-item-lvl-2 .mn-link::before {
   content: "";
   display: block;
-  width: 22px;
+  width: 24px;
   height: 8px;
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
@@ -1748,6 +1754,10 @@ hr {
 }
 
 .mn-item-has-submenu::after {
+  display: none;
+}
+
+#widgetMobileLinkOpenCap {
   display: none;
 }
 
@@ -2584,7 +2594,7 @@ hr {
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: contain;
-  padding: 50px;
+  padding: 15px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -2821,7 +2831,7 @@ hr {
   background-position: center bottom;
   background-size: cover;
   background-color: #f7f8f8;
-  padding: 50px;
+  padding: 15px;
   margin-top: 0;
 }
 
@@ -3110,7 +3120,7 @@ hr {
   background-repeat: no-repeat;
   background-position: left bottom;
   background-size: contain;
-  padding: 50px 50px 100px 50px;
+  padding: 50px 15px 100px 15px;
   width: 100vw !important;
   margin-left: 50% !important;
   -webkit-transform: translateX(-50%) !important;
@@ -8340,7 +8350,7 @@ h1.main-title  {
 
 .content851830 .wrapper .main-title-with-link,
 .content855217 .wrapper .main-title-with-link {
-  margin-top: 280px !important;
+  margin-top: 100px !important;
   margin-bottom: 0 !important;
 }
 
@@ -8401,7 +8411,7 @@ h1.main-title  {
 .content855217 .wrapper .partner-list .inside .partner-gallery .pg-item-group .pg-item,
 .content855217 .wrapper .institutionnal .inside .partner-gallery .pg-item-group .pg-item,
 .content855217 .wrapper .other .inside .partner-gallery .pg-item-group .pg-item {
-  width: 335px;
+  width: 100%;
   border-bottom: 0 none;
   margin: 1.5% 1.5%;
   margin-left: 0;
