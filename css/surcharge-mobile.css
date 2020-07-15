@@ -6671,6 +6671,10 @@ h1.main-title  {
   padding: 15px;
 }
 
+.body-mobile .wrapper .layout-2-col .article-wrapper {
+  padding: 15px;
+}
+
 .body-mobile .wrapper .layout-2-col .block-page .inside h1 {
   font-family: "Museo 700", sans-serif;
   font-size: 41px;
@@ -7475,6 +7479,10 @@ h1.main-title  {
   top: 0;
   left: 0;
   background: rgba(11, 22, 38, 0.65);
+}
+
+.body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link .an-item-illust {
+  max-width: initial;
 }
 
 .body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link .an-item-content {
