@@ -6647,16 +6647,12 @@ h1.main-title  {
   z-index: 2;
 }
 
-.body-mobile .wrapper .layout-2-col {
-  padding-top: 0;
-}
-
-.body-mobile .wrapper .layout-2-col #zone2 {
+.body-mobile .wrapper #zone2 {
   font-size: 100% !important;
   font-size: 0;
 }
 
-.body-mobile .wrapper .layout-2-col #zone2 h1 {
+.body-mobile .wrapper #zone2 h1 {
   text-align: center;
   color: white;
   margin-bottom: 15rem;
@@ -6666,16 +6662,16 @@ h1.main-title  {
   line-height: 50px;
 }
 
-.body-mobile .wrapper .layout-2-col #zone2 .article-wrapper {
+.body-mobile .wrapper #zone2 .article-wrapper {
   margin: 0 auto;
   padding: 15px;
 }
 
-.body-mobile .wrapper .layout-2-col .article-wrapper {
+.body-mobile .wrapper .article-wrapper {
   padding: 15px;
 }
 
-.body-mobile .wrapper .layout-2-col .block-page .inside h1 {
+.body-mobile .wrapper .block-page .inside h1 {
   font-family: "Museo 700", sans-serif;
   font-size: 41px;
   font-weight: 700;
@@ -6685,31 +6681,31 @@ h1.main-title  {
   margin-bottom: 3rem;
 }
 
-.body-mobile .wrapper .layout-2-col .block-page .inside .sm-item-title {
+.body-mobile .wrapper .block-page .inside .sm-item-title {
   font-size: 2.6rem;
   color: #252525;
   margin: 3rem 0;
   font-family: "NeutrifStudio-bold", Helvetica, Arial, sans-serif;
 }
 
-.body-mobile .wrapper .layout-2-col .block-page .inside .sm-item-link {
+.body-mobile .wrapper .block-page .inside .sm-item-link {
   color: #252525;
 }
 
-.body-mobile .wrapper .layout-2-col .block-page .inside .sm-item-link:hover {
+.body-mobile .wrapper .block-page .inside .sm-item-link:hover {
   color: #9a1c36;
 }
 
-.body-mobile .wrapper .layout-2-col .block-page .inside .content-list-bullet {
+.body-mobile .wrapper .block-page .inside .content-list-bullet {
   margin-left: 20px;
 }
 
-.body-mobile .wrapper .layout-2-col .block-page .inside .content-list-bullet li:before {
+.body-mobile .wrapper .block-page .inside .content-list-bullet li:before {
   background: #9a1c36;
   border-radius: 50px;
 }
 
-.body-mobile .wrapper .layout-2-col .block-page .inside .content-list-bullet li a {
+.body-mobile .wrapper .block-page .inside .content-list-bullet li a {
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 600;
@@ -6717,13 +6713,13 @@ h1.main-title  {
   color: #0b1626;
 }
 
-.body-mobile .wrapper .layout-2-col .block-page .inside .content-list-bullet li ul li {
+.body-mobile .wrapper .block-page .inside .content-list-bullet li ul li {
   display: flex;
   flex-direction: row;
   align-items: center;
 }
 
-.body-mobile .wrapper .layout-2-col .block-page .inside .content-list-bullet li ul li::before {
+.body-mobile .wrapper .block-page .inside .content-list-bullet li ul li::before {
   content: "";
   background-image: url("/theme/milipolqatar_mobile_2020_git/img/little-arrow-right-gold.svg");
   background-repeat: no-repeat;
