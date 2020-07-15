@@ -594,6 +594,7 @@ header.site-banner .global-search-form .gsf-label {
 .block-page {
   max-width: 1440px;
   margin: 0 auto;
+  padding: 15px;
 }
 
 .sr-term {
@@ -6667,6 +6668,7 @@ h1.main-title  {
 
 .body-mobile .wrapper .layout-2-col #zone2 .article-wrapper {
   margin: 0 auto;
+  padding: 15px;
 }
 
 .body-mobile .wrapper .layout-2-col .block-page .inside h1 {
@@ -7455,18 +7457,8 @@ h1.main-title  {
   justify-content: center;
 }
 
-.body-mobile .wrapper .article-navigation .inside .unstyled .an-item {
-  max-width: none;
-  max-height: 202px;
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  width: 40%;
-}
-
 .body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link {
   height: 202px;
-  width: 540px;
   margin: 0 auto;
   background-color: #0b1626;
 }
