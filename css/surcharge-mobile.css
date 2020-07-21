@@ -467,6 +467,8 @@ abbr[title] {
   padding: 1px;
   margin-right: -2px;
   top: 70px !important;
+  right: -50px !important;
+  width: 70vw !important;
 }
 
 .site-banner .gsf-submit-btn {
@@ -1718,11 +1720,9 @@ hr {
 .sb-menu-trigger {
   z-index: 99999;
   position: absolute;
-  right: 20px;
+  right: 15px;
   left: initial;
   top: 0px;
-  width: 21px;
-  height: 18px;
 }
 
 .sb-menu-trigger i {
@@ -1736,6 +1736,7 @@ hr {
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/burger.svg);
   background-repeat: no-repeat;
   display: block;
+  margin: 0 auto;
 }
 
 .sb-menu-trigger.is-open:after {
@@ -2044,7 +2045,7 @@ hr {
   background-color: #7b1228;
   background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%);
   background-size: 360px;
-  margin-top: 59px;
+  margin-top: -41px;
   padding-top: 50px;
   position: relative;
 }
@@ -2293,7 +2294,7 @@ hr {
   height: 245px;
   -o-object-fit: cover;
      object-fit: cover;
-  margin-top: -18px;
+  margin-top: 0;
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -3225,12 +3226,13 @@ hr {
 }
 
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list .gla-item {
-  min-height: 475px;
+  min-height: initial;
   background-color: white;
   padding: 10px;
   box-shadow: none;
   width: 100%;
   margin: 0 auto;
+  margin-bottom: 2rem !important;
 }
 
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list .gla-item a img {
@@ -3242,6 +3244,8 @@ hr {
 
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list .gla-item a .gla-item-content {
   display: flex;
+  position: initial;
+  margin-top: 15px;
 }
 
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list .gla-item a .gla-item-content .gla-item-title {
