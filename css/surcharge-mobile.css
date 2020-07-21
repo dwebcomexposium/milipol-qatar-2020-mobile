@@ -2131,7 +2131,7 @@ hr {
 .bottom-text {
   display: flex;
   justify-content: center;
-  padding: 15px;
+  padding: 11px;
   background-color: rgba(49, 2, 0, 0.5);
   margin-top: 85px;
   width: 100%;
@@ -2276,7 +2276,7 @@ hr {
   max-width: 1120px;
   padding: 15px;
   height: 550px;
-  margin-top: 50px;
+  margin: 50px 0;
 }
 
 .body-mobile.front #zone2 .edito-about .inside,
@@ -2425,7 +2425,7 @@ hr {
 }
 
 .body-mobile.front #zone2 .discover-qatar {
-  height: 650px;
+  height: 600px;
 }
 
 .body-mobile.front #zone2 .discover-qatar .inside {
@@ -3400,10 +3400,6 @@ hr {
   line-height: 12px;
   letter-spacing: 0.2px;
   margin-right: auto;
-}
-
-.body-mobile.front #zone2 .discover-qatar {
-  margin-top: 0;
 }
 
 .body-mobile.front #zone2 .key-numbers {
