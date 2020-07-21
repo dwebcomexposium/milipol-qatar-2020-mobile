@@ -2071,6 +2071,7 @@ hr {
   max-width: 1015px;
   text-align: center;
   z-index: 1;
+  padding: 15px;
 }
 
 .intro-home h2 span {
@@ -2088,7 +2089,7 @@ hr {
   position: absolute;
   width: 220px;
   right: 0;
-  bottom: 62px;
+  bottom: 2px;
 }
 
 .intro-home .buttons-container {
@@ -2141,6 +2142,7 @@ hr {
   color: white;
   text-transform: uppercase;
   text-align: center;
+  z-index: 99;
 }
 
 #zone1 .cta-arrow {
@@ -2184,6 +2186,7 @@ hr {
   border: 2px solid #d8d8d8;
   padding: 5px 15px;
   height: 55px;
+  text-align: left;
 }
 
 #zone1 .cta-arrow .ql-list .ql-item a i {
@@ -2272,6 +2275,7 @@ hr {
   max-width: 1120px;
   padding: 15px;
   height: 550px;
+  margin-top: 50px;
 }
 
 .body-mobile.front #zone2 .edito-about .inside,
@@ -2468,6 +2472,7 @@ hr {
   align-items: center;
   justify-content: center;
   text-align: center;
+  margin-top: 50px;
 }
 
 .body-mobile.front #zone2 .prepare .text-left {
@@ -2504,7 +2509,6 @@ hr {
 .body-mobile.front #zone2 .quicklinks .ql-list {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
 }
 
@@ -2546,6 +2550,7 @@ hr {
   height: 8px;
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
+  margin-left: auto;
 }
 
 .body-mobile.front #zone2 .quicklinks .ql-list .ql-item:before {
@@ -2588,6 +2593,7 @@ hr {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  max-height: 373px;
 }
 
 .body-mobile.front #zone2 .video h2 {
@@ -2603,6 +2609,8 @@ hr {
 .body-mobile.front #zone2 .video iframe {
   margin: 0 auto;
   width: 100%;
+  max-height: 180px;
+  height: 180px;
 }
 
 .body-mobile.front #zone2 .conference-program {
@@ -2984,7 +2992,7 @@ hr {
   height: 8px;
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-gold.svg);
   background-repeat: no-repeat;
-  margin-left: auto;
+  margin-left: 15px;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .main-title-with-link .link-view-all:hover {
@@ -2995,7 +3003,11 @@ hr {
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery {
   max-width: 1120px;
   margin: 50px auto 0 auto;
-  padding-top: 15px;
+  padding: 15px;
+}
+
+.body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .slider-item:not(.slider-item-active) {
+  opacity: 1 !important;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .slider-content {
@@ -3004,7 +3016,7 @@ hr {
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .slider-content .pg-item {
   border: 1px solid #d8d8d8;
-  margin-right: 25px;
+  margin-right: 15px;
   max-width: 178px;
 }
 
@@ -3033,6 +3045,15 @@ hr {
   position: relative;
   top: -13px;
   padding: 2px;
+  text-align: center;
+}
+
+.body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .slider-content .pg-item a .pg-item-illust {
+  margin: 0 auto;
+}
+
+.body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .slider-content .pg-item img {
+  max-height: 85px;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .pg-pagin {
@@ -3109,7 +3130,7 @@ hr {
   background-repeat: no-repeat;
   background-position: left bottom;
   background-size: contain;
-  padding: 50px 50px 100px 50px;
+  padding: 50px;
   width: 100vw !important;
   margin-left: 50% !important;
   -webkit-transform: translateX(-50%) !important;
@@ -3475,7 +3496,7 @@ hr {
 .body-mobile.front #zone2 .key-numbers .text-bg {
   position: absolute;
   bottom: 0;
-  right: -160px;
+  right: 0;
   color: #f7f8f8;
   z-index: -1;
   max-width: 600px;
