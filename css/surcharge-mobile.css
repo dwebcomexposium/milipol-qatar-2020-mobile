@@ -8333,20 +8333,20 @@ h1.main-title  {
   padding: 2.5rem;
 }
 
-.content851830 body,
-.content855217 body {
+.content851830,
+.content855217 {
   background-color: #f7f8f8;
+}
+
+.content851830 .wrapper .institutionnal:first-child .main-title-with-link,
+.content855217 .wrapper .institutionnal:first-child .main-title-with-link {
+  margin-top: 250px !important;
 }
 
 .content851830 .wrapper .main-title-with-link,
 .content855217 .wrapper .main-title-with-link {
   margin-top: 50px !important;
   margin-bottom: 0 !important;
-}
-
-.content851830 .wrapper .main-title-with-link:nth-child(1),
-.content855217 .wrapper .main-title-with-link:nth-child(1) {
-  margin-top: 250px !important;
 }
 
 .content851830 .wrapper .main-title-with-link h2,
