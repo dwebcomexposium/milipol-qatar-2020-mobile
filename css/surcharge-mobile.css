@@ -6746,7 +6746,7 @@ h1.main-title  {
 .body-mobile .wrapper .article-title {
   max-width: 730px;
   margin-bottom: 3rem;
-  z-index: 99;
+  z-index: 9;
   text-align: center;
 }
 
@@ -7466,12 +7466,9 @@ h1.main-title  {
 }
 
 .body-mobile .wrapper .article-navigation .inside .unstyled .an-item {
-  max-width: none;
-  max-height: 202px;
   display: flex;
-  flex-direction: column;
   position: relative;
-  width: 40%;
+  width: 100%;
 }
 
 .body-mobile .wrapper .article-navigation .inside .unstyled .an-item .an-item-link {
@@ -7758,6 +7755,7 @@ h1.main-title  {
   color: white;
   margin-bottom: 3rem;
   float: none;
+  text-align: center;
 }
 
 .body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) .wrapper .block-page .inside .sm-item-title {
@@ -8119,15 +8117,6 @@ h1.main-title  {
   padding-bottom: 8rem;
 }
 
-.body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper::before,
-.body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper::before,
-.body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper::before,
-.body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper::before,
-.body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper::before {
-  height: 33.5rem;
-  background-image: url(/theme/milipolqatar_mobile_2020_git/img/bg-general.svg);
-}
-
 .body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper h1,
 .body-mobile.error404:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper h1,
 .body-mobile.mentions-conditions-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper h1,
@@ -8360,6 +8349,7 @@ h1.main-title  {
   font-weight: 600;
   line-height: 18px;
   letter-spacing: 0.25px;
+  text-align: left;
 }
 
 .content851830 .wrapper .partner-list,
@@ -8402,7 +8392,6 @@ h1.main-title  {
 .content855217 .wrapper .partner-list .inside .partner-gallery .pg-item-group .pg-item,
 .content855217 .wrapper .institutionnal .inside .partner-gallery .pg-item-group .pg-item,
 .content855217 .wrapper .other .inside .partner-gallery .pg-item-group .pg-item {
-  width: 335px;
   border-bottom: 0 none;
   margin: 1.5% 1.5%;
   margin-left: 0;
@@ -8583,6 +8572,7 @@ h1.main-title  {
 
 .block-page.faq .faq-content {
   margin-bottom: 5rem !important;
+  padding: 15px;
 }
 
 .block-page.faq .fc-item-link {
@@ -8595,7 +8585,7 @@ h1.main-title  {
 }
 
 .block-page.faq > .inside:nth-child(1) {
-  margin-bottom: 180px;
+  margin-bottom: 110px;
 }
 
 .block-page.faq > .inside:nth-child(1) h1 {
