@@ -8228,6 +8228,10 @@ h1.main-title  {
   display: none;
 }
 
+.body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) .wrapper:after {
+  top: 58px;
+}
+
 .body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) .wrapper .search-result {
   width: 100%;
   max-width: 730px;
@@ -8267,7 +8271,8 @@ h1.main-title  {
 }
 
 .body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) .wrapper .search-result .sr-group {
-  margin-top: 200px;
+  margin-top: 110px;
+  padding: 15px;
 }
 
 .body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) .wrapper .search-result .sr-group:first-child .sr-group-title {
