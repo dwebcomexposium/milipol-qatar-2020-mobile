@@ -1164,6 +1164,17 @@ hr {
   height: 60px;
 }
 
+.site-banner > .inside .quicklinks:before {
+  content: "";
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/logo.svg);
+  background-repeat: no-repeat;
+  display: block;
+  margin: 0 auto;
+}
+
 .site-banner > .inside .quicklinks ul.ql-list.unstyled {
   display: flex;
   font-family: initial;
@@ -1694,7 +1705,7 @@ hr {
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-menu-item-855024 {
   background-image: none;
   width: auto;
-  top: -10px;
+  top: 0;
   left: 30px;
   margin-bottom: 0;
   position: absolute;
