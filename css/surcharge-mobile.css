@@ -1169,6 +1169,8 @@ hr {
   width: 54px;
   height: 54px;
   position: absolute;
+  left: 30px;
+  top: 20px;
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/logo.svg);
   background-repeat: no-repeat;
   display: block;
