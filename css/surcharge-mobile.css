@@ -259,7 +259,7 @@ h2 {
 }
 
 .wrapper .block:not(:first-child) {
-  margin-top: 5rem;
+  margin-top: 0;
 }
 
 .page-rubric main .zone .list-articles {
@@ -434,7 +434,7 @@ abbr[title] {
 
 .breadcrumb-nav {
   text-align: center;
-  padding-top: 55px;
+  padding-top: 85px;
 }
 
 .breadcrumb-nav .bn-item-link {
@@ -2049,6 +2049,10 @@ hr {
 }
 
 /* pages */
+.body-mobile.front .wrapper::after {
+  background-image: initial;
+}
+
 .intro-home {
   display: flex;
   flex-direction: column;
@@ -2058,8 +2062,9 @@ hr {
   background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%);
   background-size: 360px;
   margin-top: 0;
-  padding-top: 50px;
+  padding-top: 120px;
   position: relative;
+  z-index: -2;
 }
 
 .intro-home h1 {
@@ -2094,7 +2099,7 @@ hr {
 .intro-home .intro-home__img-bg {
   position: absolute;
   z-index: 0;
-  top: 35px;
+  top: 125px;
   width: 335px;
 }
 
@@ -6649,6 +6654,10 @@ h1.main-title  {
   display: block;
   background-color: #7b1228;
   background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%);
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/date-mobile.svg);
+  background-repeat: no-repeat;
+  background-position: center 20px;
+  background-size: 100%;
   width: 100%;
   position: absolute;
   left: 0;
@@ -7733,7 +7742,10 @@ h1.main-title  {
   content: "";
   display: block;
   background-color: #7b1228;
-  background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%);
+  background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%, url(/theme/milipolqatar_mobile_2020_git/img/date-mobile.svg));
+  background-repeat: no-repeat;
+  background-position: center 20px;
+  background-size: 100%;
   width: 100%;
   position: absolute;
   left: 0;
@@ -8164,7 +8176,7 @@ h1.main-title  {
 .body-mobile.politique-protection-art:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper .sitemap .sm-list,
 .body-mobile.sitemap:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper .sitemap .sm-list {
   max-width: 730px;
-  margin: 280px auto;
+  margin: 160px auto 0 auto;
 }
 
 .body-mobile.search:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.article_list) .wrapper .sitemap .sm-list .sm-item-title,
