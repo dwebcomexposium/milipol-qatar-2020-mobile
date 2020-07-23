@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="335px" height="69px" viewBox="0 0 335 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" line-spacing="15.1199988">
+        <g id="MENU" transform="translate(-21.000000, -84.000000)">
+            <g id="Group">
+                <g transform="translate(21.000000, 95.000000)">
+                    <g id="Group-6">
+                        <text id="26-28" font-family="Museo900-Regular, Museo" font-size="35.2799973" font-weight="700" letter-spacing="0.352800125">
+                            <tspan x="113.645084" y="15.7329613" fill="#FFFFFF">26 </tspan>
+                            <tspan x="165.50668" y="15.7329613" fill="#A6945D"> </tspan>
+                            <tspan x="175.03228" y="15.7329613" fill="#FFFFFF">28</tspan>
+                        </text>
+                        <text id="October-2020" font-family="UniversLTStd-Bold, Univers LT Std" font-size="13.439999" font-weight="bold" letter-spacing="0.134400072" fill="#A6945D">
+                            <tspan x="116.098723" y="32">OCTOBER  2020</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
