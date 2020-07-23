@@ -2357,7 +2357,7 @@ hr {
 .body-mobile.front #zone2 .edito-about .inside h3,
 .body-mobile.front #zone2 .discover-qatar .inside h3 {
   position: absolute;
-  top: 280px;
+  top: 300px;
   margin-top: 0;
   font-family: "Museo 700", sans-serif;
   font-size: 28px;
@@ -2370,7 +2370,7 @@ hr {
 .body-mobile.front #zone2 .edito-about .inside p,
 .body-mobile.front #zone2 .discover-qatar .inside p {
   position: absolute;
-  top: 340px;
+  top: 370px;
   font-family: "Univers LT Std", sans-serif;
   font-size: 15px;
   font-weight: 500;
@@ -2990,7 +2990,6 @@ hr {
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .main-title-with-link .link-view-all {
-  align-self: flex-end;
   text-transform: uppercase;
   color: #0b1626;
   letter-spacing: 0.2px;
@@ -3003,6 +3002,8 @@ hr {
   align-items: center;
   position: absolute;
   bottom: 0;
+  width: 100%;
+  justify-content: center;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .main-title-with-link .link-view-all i {
@@ -3093,6 +3094,7 @@ hr {
   left: 100px;
   z-index: 1000;
   margin: 0 auto;
+  display: none;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .pg-pagin .slider-pagin-btn .pg-pagin-nb {
@@ -3582,7 +3584,7 @@ hr {
 }
 
 #zone4 .article-focus {
-  height: 300px;
+  height: 180px;
 }
 
 #zone4 .article-focus .inside {
@@ -6659,8 +6661,7 @@ h1.main-title  {
   content: "";
   display: block;
   background-color: #7b1228;
-  background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%);
-  background-image: url(/theme/milipolqatar_mobile_2020_git/img/date-mobile.svg);
+  background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%, url(/theme/milipolqatar_mobile_2020_git/img/date-mobile.png));
   background-repeat: no-repeat;
   background-position: center 20px;
   background-size: 100%;
@@ -6824,6 +6825,10 @@ h1.main-title  {
   /*tableau*/
 }
 
+.body-mobile .wrapper .article-content p {
+  font-size: 2rem !important;
+}
+
 .body-mobile .wrapper .article-content p.important1:nth-child(2) {
   border: 0;
   background: transparent;
@@ -6889,8 +6894,9 @@ h1.main-title  {
 .body-mobile .wrapper .article-content blockquote::before {
   content: "";
   background: url("/theme/milipolqatar_mobile_2020_git/img/quotes.svg");
+  background-repeat: no-repeat;
   position: absolute;
-  width: 4.2rem;
+  width: 5.8rem;
   height: 2.7rem;
   position: absolute;
   left: 50%;
@@ -6907,6 +6913,7 @@ h1.main-title  {
   line-height: 39px;
   max-width: 730px;
   margin: 50px auto;
+  text-align: center;
 }
 
 .body-mobile .wrapper .article-content blockquote .important1 {
@@ -7077,12 +7084,6 @@ h1.main-title  {
   min-width: 250px;
 }
 
-@media screen and (max-width: 1500px) {
-  .body-mobile .wrapper .article-content .focus1 a {
-    padding: 1.5rem;
-  }
-}
-
 .body-mobile .wrapper .article-content .focus1 a.externe {
   color: white;
   background-color: #7b1228;
@@ -7198,6 +7199,12 @@ h1.main-title  {
   height: 6px;
   background: #7b1228;
   border-radius: 50px;
+}
+
+.body-mobile .wrapper .article-content table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
 }
 
 .body-mobile .wrapper .article-content .table1 tr:nth-child(1) {
@@ -7748,7 +7755,7 @@ h1.main-title  {
   content: "";
   display: block;
   background-color: #7b1228;
-  background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%, url(/theme/milipolqatar_mobile_2020_git/img/date-mobile.svg));
+  background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%, url(/theme/milipolqatar_mobile_2020_git/img/date-mobile.png));
   background-repeat: no-repeat;
   background-position: center 20px;
   background-size: 100%;
@@ -7780,9 +7787,9 @@ h1.main-title  {
 
 .body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) .wrapper .block-page .inside h1 {
   font-family: "Museo 700", sans-serif;
-  font-size: 41px;
+  font-size: 27px;
   font-weight: 700;
-  line-height: 50px;
+  line-height: 33px;
   margin-top: 0;
   color: white;
   margin-bottom: 3rem;
@@ -7852,7 +7859,7 @@ h1.main-title  {
   border-bottom: 1px solid #a6945d;
   padding-bottom: 15px;
   margin-bottom: 50px;
-  margin-top: 180px;
+  margin-top: 140px;
 }
 
 .body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) .wrapper .list-articles .grid-la-list {
@@ -7889,6 +7896,7 @@ h1.main-title  {
   align-items: flex-start;
   padding-bottom: 25px;
   border-bottom: 1px solid #a6945d;
+  background-color: initial;
 }
 
 .body-mobile:not(.front):not(.content374293):not(.content743324):not(.exposant):not(.search) .wrapper .list-articles .grid-la-list .gla-item .gla-item-content .gla-item-title {
@@ -9401,6 +9409,10 @@ body.error404 .intro-home {
   display: none;
 }
 
+body.error404 .wrapper {
+  background-image: initial;
+}
+
 body.error404 .wrapper #zone1 {
   display: none;
 }
@@ -9444,15 +9456,12 @@ body.error404 .wrapper .intro .ezxmltext-field ul {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   margin-top: 50px;
 }
 
 body.error404 .wrapper .intro .ezxmltext-field ul li {
   margin-top: 0;
-}
-
-body.error404 .wrapper .intro .ezxmltext-field ul li:not(:last-child) {
-  margin-right: 15px;
 }
 
 body.error404 .wrapper .intro .ezxmltext-field ul li:first-child a {
@@ -9470,6 +9479,9 @@ body.error404 .wrapper .intro .ezxmltext-field ul li:first-child a {
   display: flex;
   align-items: center;
   border: 2px solid transparent;
+  width: 207px;
+  margin-bottom: 15px;
+  height: 50px;
 }
 
 body.error404 .wrapper .intro .ezxmltext-field ul li:first-child a:after {
@@ -9501,6 +9513,8 @@ body.error404 .wrapper .intro .ezxmltext-field ul li:last-child a {
   text-transform: uppercase;
   display: flex;
   align-items: center;
+  width: 207px;
+  height: 50px;
 }
 
 body.error404 .wrapper .intro .ezxmltext-field ul li:last-child a:after {
