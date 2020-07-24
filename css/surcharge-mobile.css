@@ -4972,7 +4972,7 @@ body.exposer #main .wrapper {
 }
 
 .mod-catal .catal-ex-item-img {
-  width: 226px;
+  width: 100%;
   background-color: transparent;
 }
 
@@ -6168,6 +6168,13 @@ body.exposer #main .wrapper {
 
 .esf-advanced-search .esf-as-header .esf-as-title:before {
   right: 1.5rem;
+  left: initial;
+  background: #7b1228;
+}
+
+.esf-advanced-search .esf-as-header .esf-as-title:after {
+  right: 1.5rem;
+  left: initial;
   background: #7b1228;
 }
 
