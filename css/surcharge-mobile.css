@@ -6839,9 +6839,12 @@ h1.main-title  {
 
 .body-mobile .wrapper .article-title > .inside img {
   width: 100%;
-  height: auto;
+  height: 268px;
   order: 2;
   margin-bottom: -10rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin-top: 4rem;
 }
 
 .body-mobile .wrapper .article-title > .inside h1 {
