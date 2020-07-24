@@ -2054,14 +2054,20 @@ hr {
 }
 
 /* pages */
-.body-mobile.front .wrapper:before {
+.body-mobile.front .wrapper:before,
+.body-mobile .catalogue .wrapper:before {
   height: 100px;
   background-color: initial;
   z-index: 1;
 }
 
-.body-mobile.front .wrapper::after {
+.body-mobile.front .wrapper::after,
+.body-mobile .catalogue .wrapper::after {
   background-image: initial;
+}
+
+.body-mobile .catalogue .wrapper {
+  margin: 6rem auto 0 auto;
 }
 
 .intro-home {
@@ -4362,6 +4368,7 @@ body.exposer #main .wrapper {
   letter-spacing: 0.25px;
   text-transform: uppercase;
   text-align: center;
+  margin: 0 0 3rem 0;
 }
 
 .mod-catal .main-search .esf-intro-title:after {
@@ -4381,13 +4388,16 @@ body.exposer #main .wrapper {
 .mod-catal .esf-search-line .form-select + #esf_simple_search {
   margin: 0;
   border-radius: 0;
-  border-right: 0 none;
   border-color: #dbdbdb;
   font-size: 1.5rem;
   font-style: normal;
   padding-top: 1rem;
   width: 60%;
   background-color: #f7f8f8;
+  font-family: "Univers LT Std", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 26px;
 }
 
 .mod-catal
@@ -4483,7 +4493,7 @@ body.exposer #main .wrapper {
   border: 0 none;
   background-color: #7b1228;
   text-transform: uppercase;
-  padding: 0 5px 0 0;
+  padding: 30 5px 0 0;
   letter-spacing: 0.2px;
   font-family: "Univers LT Std", sans-serif;
   font-size: 12px;
@@ -4494,6 +4504,7 @@ body.exposer #main .wrapper {
   background-repeat: no-repeat;
   background-position: 140px center;
   transition: none;
+  margin-top: 15px;
 }
 
 .mod-catal .esf-search-line #esf-btn-search:hover {
@@ -4506,10 +4517,10 @@ body.exposer #main .wrapper {
   right: 0;
   bottom: 0;
   position: relative;
-  text-align: right;
+  text-align: center;
   margin: 16px 0 0 0;
   padding: 0 28px;
-  margin-left: auto;
+  margin: 20px auto;
 }
 
 .catalogue .esf-search-plus .esf-search-plus-txt {
@@ -5032,6 +5043,7 @@ body.exposer #main .wrapper {
   padding: 1rem;
   background: white;
   margin-bottom: 20px;
+  flex-direction: column;
 }
 
 .mod-catal .catal-ex-item .catal-ex-item-country {
@@ -7299,14 +7311,13 @@ h1.main-title  {
 }
 
 .body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-illust {
-  min-width: 15rem;
   background-color: #efefef;
   align-self: flex-start;
   min-height: 15rem;
   margin-right: -15rem;
   z-index: 1;
   padding: 0 !important;
-  width: 260px;
+  max-width: initial;
 }
 
 .body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-illust img {
