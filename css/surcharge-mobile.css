@@ -2054,6 +2054,12 @@ hr {
 }
 
 /* pages */
+.body-mobile.front .wrapper:before {
+  height: 100px;
+  background-color: initial;
+  z-index: 1;
+}
+
 .body-mobile.front .wrapper::after {
   background-image: initial;
 }
@@ -2063,13 +2069,10 @@ hr {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #7b1228;
-  background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%);
   background-size: 360px;
   margin-top: 0;
   padding-top: 120px;
   position: relative;
-  z-index: -2;
 }
 
 .intro-home h1 {
@@ -2153,7 +2156,7 @@ hr {
 .bottom-text {
   display: flex;
   justify-content: center;
-  padding: 11px;
+  padding: 17px;
   background-color: rgba(49, 2, 0, 0.5);
   margin-top: 85px;
   width: 100%;
@@ -3270,6 +3273,7 @@ hr {
   display: flex;
   position: initial;
   margin-top: 15px;
+  background-color: initial;
 }
 
 .body-mobile.front #zone2 .list-articles .inside .cxp-pagination .grid-la-list .gla-item a .gla-item-content .gla-item-title {
@@ -6660,7 +6664,7 @@ h1.main-title  {
   content: "";
   display: block;
   background-color: #7b1228;
-  background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%, url(/theme/milipolqatar_mobile_2020_git/img/date-mobile.png));
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/date-mobile.png);
   background-repeat: no-repeat;
   background-position: center 20px;
   background-size: 100%;
@@ -7753,7 +7757,7 @@ h1.main-title  {
   content: "";
   display: block;
   background-color: #7b1228;
-  background: linear-gradient(180deg, #7b1228 10%, #9a1c36 100%, url(/theme/milipolqatar_mobile_2020_git/img/date-mobile.png));
+  background-image: url(/theme/milipolqatar_mobile_2020_git/img/date-mobile.png);
   background-repeat: no-repeat;
   background-position: center 20px;
   background-size: 100%;
@@ -8334,6 +8338,7 @@ h1.main-title  {
 .body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) .wrapper .search-result .sr-item .sr-item-img {
   max-width: initial;
   margin: 0 auto;
+  width: 100%;
 }
 
 .body-mobile.search:not(.front):not(.content374293):not(.exposant):not(.article_list) .wrapper .search-result .sr-item .sr-item-img .la-item-img {
