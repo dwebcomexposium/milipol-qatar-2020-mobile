@@ -2066,8 +2066,12 @@ hr {
   background-image: initial;
 }
 
-.body-mobile .catalogue .wrapper {
-  margin: 6rem auto 0 auto;
+.body-mobile.catalogue .wrapper {
+  margin: 7rem auto 0 auto;
+}
+
+.body-mobile.catalogue .wrapper::after {
+  background-image: initial;
 }
 
 .intro-home {
@@ -4489,11 +4493,11 @@ body.exposer #main .wrapper {
 }
 
 .mod-catal .esf-search-line #esf-btn-search {
-  width: 21%;
+  width: 100%;
   border: 0 none;
   background-color: #7b1228;
   text-transform: uppercase;
-  padding: 30 5px 0 0;
+  padding: 30px 5px 0 0;
   letter-spacing: 0.2px;
   font-family: "Univers LT Std", sans-serif;
   font-size: 12px;
@@ -4502,9 +4506,13 @@ body.exposer #main .wrapper {
   border-color: #dbdbdb;
   background-image: url(/theme/milipolqatar_mobile_2020_git/img/arrow-right-white.svg);
   background-repeat: no-repeat;
-  background-position: 140px center;
+  background-position: center center;
   transition: none;
   margin-top: 15px;
+}
+
+.mod-catal .esf-search-line #esf-btn-search i {
+  display: none;
 }
 
 .mod-catal .esf-search-line #esf-btn-search:hover {
@@ -5456,7 +5464,7 @@ body.exposer #main .wrapper {
 }
 
 .mod-catal .catal-ex-item.is-premium .mod-catal .catal-ex-item-img {
-  width: 296px;
+  width: 100%;
   background-color: #d9d9d9;
 }
 
@@ -6146,6 +6154,23 @@ body.exposer #main .wrapper {
   background: white;
 }
 
+.esf-advanced-search .esf-as-header .esf-as-title {
+  height: initial;
+  padding: 16px;
+  border: 1px solid #e5e7e8;
+  background-color: transparent;
+  font-family: "Univers LT Std", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 26px;
+  color: #0b1626;
+}
+
+.esf-advanced-search .esf-as-header .esf-as-title:before {
+  right: 1.5rem;
+  background: #7b1228;
+}
+
 .esf-advanced-search .esf-as-header:hover p {
   color: white;
 }
@@ -6628,6 +6653,10 @@ body.exposer #main .wrapper {
 
 .mod-catal.catal-nav-ex .catal-nav-ex-link .icon-catal {
   color: #0b1626;
+}
+
+#esf_simple_search {
+  border: 1px solid #e5e7e8;
 }
 
 .catalogue #zone3 {
