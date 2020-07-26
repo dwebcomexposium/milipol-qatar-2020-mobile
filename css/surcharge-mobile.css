@@ -9481,7 +9481,7 @@ body.error404 .intro-home {
 }
 
 body.error404 .wrapper {
-  background-image: initial;
+  background-image: initial !important;
 }
 
 body.error404 .wrapper #zone1 {
