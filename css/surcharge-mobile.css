@@ -7358,6 +7358,7 @@ h1.main-title  {
   z-index: 1;
   padding: 0 !important;
   max-width: initial;
+  width: 100%;
 }
 
 .body-mobile .wrapper .article-content .cl-content .cl-item .cl-item-illust img {
@@ -9479,7 +9480,7 @@ body.error404 .intro-home {
   display: none;
 }
 
-body.error404 .wrapper:before {
+body.error404 .wrapper {
   background-image: initial;
 }
 
