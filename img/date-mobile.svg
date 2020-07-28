@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="335px" height="69px" viewBox="0 0 335 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 6</title>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" line-spacing="15.1199988">
-        <g id="MENU" transform="translate(-21.000000, -84.000000)">
-            <g id="Group">
-                <g transform="translate(21.000000, 95.000000)">
-                    <g id="Group-6">
-                        <text id="26-28" font-family="Museo900-Regular, Museo" font-size="35.2799973" font-weight="700" letter-spacing="0.352800125">
-                            <tspan x="113.645084" y="15.7329613" fill="#FFFFFF">26 </tspan>
-                            <tspan x="165.50668" y="15.7329613" fill="#A6945D"> </tspan>
-                            <tspan x="175.03228" y="15.7329613" fill="#FFFFFF">28</tspan>
-                        </text>
-                        <text id="October-2020" font-family="UniversLTStd-Bold, Univers LT Std" font-size="13.439999" font-weight="bold" letter-spacing="0.134400072" fill="#A6945D">
-                            <tspan x="116.098723" y="32">OCTOBER  2020</tspan>
-                        </text>
-                    </g>
+<svg width="119px" height="56px" viewBox="0 0 119 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MENU" transform="translate(-129.000000, -84.000000)">
+            <g id="Group-6" transform="translate(129.000000, 95.000000)">
+                <g id="FLECHE" transform="translate(56.122159, 1.676471)" stroke="#A6945D" stroke-linecap="square" stroke-width="0.839999936">
+                    <line x1="0.251420455" y1="0.251470588" x2="2.51420455" y2="2.51470588" id="Line-2"></line>
+                    <line x1="0.251420455" y1="2.76617647" x2="2.51420455" y2="5.02941176" id="Line-2" transform="translate(1.257102, 3.772059) scale(1, -1) translate(-1.257102, -3.772059) "></line>
                 </g>
+                <text id="26-28" font-family="Museo900-Regular, Museo" font-size="35.2799973" font-weight="700" line-spacing="15.1199988" letter-spacing="0.352800125">
+                    <tspan x="5.64508367" y="15.7329613" fill="#FFFFFF">26 </tspan>
+                    <tspan x="57.5066802" y="15.7329613" fill="#A6945D"> </tspan>
+                    <tspan x="67.0322796" y="15.7329613" fill="#FFFFFF">28</tspan>
+                </text>
+                <text id="October-2020" font-family="UniversLTStd-Bold, Univers LT Std" font-size="13.439999" font-weight="bold" line-spacing="15.1199988" letter-spacing="0.134400072" fill="#A6945D">
+                    <tspan x="8.0987234" y="32">OCTOBER  2020</tspan>
+                </text>
             </g>
         </g>
     </g>
