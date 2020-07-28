@@ -1705,6 +1705,10 @@ hr {
   display: none;
 }
 
+.site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-item-lvl-1.is-open {
+  margin-bottom: 20px;
+}
+
 .site-banner > .inside .main-navigation .mn-menu-line ul.mn-menu.mn-menu-lvl1.unstyled .mn-submenu {
   background: white;
 }
@@ -7041,6 +7045,7 @@ h1.main-title  {
 
 .body-mobile .wrapper .article-content .container-bloc-important .bloc-important-img {
   margin-right: 15px;
+  max-width: 150px;
 }
 
 .body-mobile .wrapper .article-content .container-bloc-important-noimg {
@@ -7256,6 +7261,7 @@ h1.main-title  {
   height: 6px;
   background: #7b1228;
   border-radius: 50px;
+  margin-top: 0.45em;
 }
 
 .body-mobile .wrapper .article-content table {
