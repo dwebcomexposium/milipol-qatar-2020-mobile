@@ -2297,7 +2297,9 @@ hr {
 }
 
 #zone1 .opening-in .container-dates .date img {
-  max-width: 70px;
+  position: relative;
+  top: 5px;
+  min-width: 175px;
 }
 
 #zone1 .opening-in .container-dates .date span {
