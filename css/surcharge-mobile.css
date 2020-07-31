@@ -3113,7 +3113,7 @@ hr {
   display: flex;
   position: absolute;
   top: -30px;
-  right: -230px;
+  right: 0;
   width: 70px;
   z-index: 1000;
   margin: 0 auto;
