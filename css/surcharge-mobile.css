@@ -1765,7 +1765,7 @@ hr {
 }
 
 .mn-menu {
-  background-color: rgba(154, 28, 54, 0.9);
+  background-color: #9a1c36;
 }
 
 .mn-item-has-submenu::after {
@@ -2991,7 +2991,7 @@ hr {
 
 .body-mobile.front #zone2 .partner {
   position: relative;
-  margin: 5rem auto;
+  margin: 8rem auto;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .main-title-with-link {
@@ -3024,7 +3024,7 @@ hr {
   display: flex;
   align-items: center;
   position: absolute;
-  bottom: 0;
+  bottom: -30px;
   width: 100%;
   justify-content: center;
 }
@@ -3056,6 +3056,10 @@ hr {
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .slider-item:not(.slider-item-active) {
   opacity: 1 !important;
+}
+
+.body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .slider-content {
+  top: 30px;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .slider-content .pg-item {
@@ -3106,14 +3110,13 @@ hr {
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .pg-pagin .slider-pagin-btn {
-  width: 1240px;
   display: flex;
   position: absolute;
-  top: 130px;
-  left: 100px;
+  top: -30px;
+  right: -230px;
+  width: 70px;
   z-index: 1000;
   margin: 0 auto;
-  display: none;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .pg-pagin .slider-pagin-btn .pg-pagin-nb {
@@ -3125,6 +3128,7 @@ hr {
   background: none;
   border: 0;
   outline: 0;
+  min-width: initial;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .pg-pagin .slider-pagin-btn .slider-btn-prev i {
@@ -3150,6 +3154,7 @@ hr {
   background: none;
   border: 0;
   outline: 0;
+  min-width: initial;
 }
 
 .body-mobile.front #zone2 .partner .box-dark .inside .partner-gallery .pg-pagin .slider-pagin-btn .slider-btn-next i {
