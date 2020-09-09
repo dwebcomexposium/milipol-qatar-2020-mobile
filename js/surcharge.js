@@ -175,13 +175,8 @@
     return false;
   });
 
-  $('#showMoreAreas').on("click", function () {
-    $('#business-areas .item-list').removeClass('display-none');
-    $('#showMoreAreas').hide()
-  });
-
   // Dynamic counter
-  $('#container-dates').countdown('2020/10/26', function (event) {
+  $('#container-dates').countdown('2021/03/05', function (event) {
     $('#month').html(event.strftime('%m'));
     $('#day').html(event.strftime('%n'));
     $('#hour').html(event.strftime('%H'));
