@@ -176,7 +176,7 @@
   });
 
   // Dynamic counter
-  $('#container-dates').countdown('2021/03/05', function (event) {
+  $('#container-dates').countdown('2021/03/15', function (event) {
     $('#month').html(event.strftime('%m'));
     $('#day').html(event.strftime('%n'));
     $('#hour').html(event.strftime('%H'));
