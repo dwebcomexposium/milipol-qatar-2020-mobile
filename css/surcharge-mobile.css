@@ -9635,6 +9635,10 @@ body.error404 .wrapper .ep-intro .main-title {
 body.error404 .ep-form-wrap {
   display: none;
 }
+/* Catalogue new 2021*/
+.body-mobile.catalogue .container {
+    width: auto;
+}
 
 
 /*# sourceMappingURL=main.css.map*/
