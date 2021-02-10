@@ -9639,6 +9639,12 @@ body.error404 .ep-form-wrap {
 .body-mobile.catalogue .container {
     width: auto;
 }
+#catalog-v2 .bgTint {
+    background-color: #a6945d !important;
+}
 
+#catalog-v2 h1 {
+    color: #000000 !important;
+}
 
 /*# sourceMappingURL=main.css.map*/
