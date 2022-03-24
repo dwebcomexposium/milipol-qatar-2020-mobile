@@ -9651,3 +9651,10 @@ body.error404 .ep-form-wrap {
 .block.block-page.breadcrumb-nav.fil-ariane {
     visibility: hidden;
 }
+
+.noimg .body-mobile .wrapper .article-title {
+    max-width: 730px;
+    margin-bottom: 23rem;
+    z-index: 9;
+    text-align: center;
+}
