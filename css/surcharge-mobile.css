@@ -9664,3 +9664,7 @@ body.error404 .ep-form-wrap {
     z-index: 9;
     text-align: center;
 }
+
+.body-mobile.partners #zone2 h2{
+    margin-bottom: 22rem;
+}
