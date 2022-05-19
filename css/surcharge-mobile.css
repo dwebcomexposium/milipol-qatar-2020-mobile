@@ -2127,7 +2127,13 @@ hr {
   position: absolute;
   z-index: 1;
   top: 125px;
-  width: 335px;
+  font-size: 18rem;
+  margin-top: 0;
+  color: #AA203F;
+  font-family: "museo 900", sans-serif;
+  font-weight: bolder;
+  line-height: 1;
+  z-index: 0;
 }
 
 .intro-home .intro-home__img-bg-right {
